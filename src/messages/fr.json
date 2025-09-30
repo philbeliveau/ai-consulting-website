@@ -1,0 +1,3084 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "menu": "Menu"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "developers": "Développeurs",
+    "business": "Entreprises",
+    "case-studies": "Cas d'études",
+    "formation": "Formation",
+    "signin": "Se connecter",
+    "signup": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "free-assessment": "Évaluation Gratuite",
+    "parcours": "Parcours",
+    "tracks": "Formations",
+    "problem": "Problème",
+    "solution": "Solution"
+  },
+  "promotion": {
+    "banner": {
+      "title": "LANCEMENT SPÉCIAL: 30% de réduction sur toutes les formations!",
+      "deadline": "Jusqu'au 5 octobre 2025 à 23h59 (EST)",
+      "cta": "J'en profite maintenant!",
+      "close": "Fermer",
+      "savings": "Économisez",
+      "originalPrice": "Prix original:",
+      "promoPrice": "Prix promotionnel:"
+    }
+  },
+  "hero": {
+    "title": "Ne restez plus spectateur de l'IA",
+    "subtitle": "Transformez vos connaissances métier en applications fonctionnelles — passez de 'celui qui a l'idée' à 'celui qui la réalise'",
+    "subtitle_parts": {
+      "line1": "Transformez vos connaissances métier en ",
+      "highlight1": "applications fonctionnelles",
+      "line2": " — passez de ",
+      "highlight2": "'celui qui a l'idée'",
+      "line3": " à ",
+      "highlight3": "'celui qui la réalise'"
+    },
+    "statistic": {
+      "icon": "💡",
+      "text": "Près de 60% des apps personnalisées en entreprise sont développées hors de l'IT",
+      "subtext": "La technique n'est plus une limite"
+    },
+    "supporting_message": "Transformez vos connaissances métier en applications fonctionnelles — passez de celui qui a l'idée à celui qui la réalise.",
+    "steps": {
+      "formation": {
+        "title": "Formation",
+        "description": "Équipes expertes en agents IA"
+      },
+      "mastery": {
+        "title": "Maîtrise",
+        "description": "Orchestration et délégation"
+      },
+      "autonomy": {
+        "title": "Autonomie",
+        "description": "Manuel et méthodes complètes"
+      }
+    },
+    "summary": "Méthode complète pour transformer vos équipes",
+    "cta": {
+      "primary": "Commencer ma transformation",
+      "secondary": "Notre guide",
+      "training": "Commencer la Formation",
+      "guide": "Télécharger le Guide"
+    },
+    "guide": {
+      "title": "Notre Guide Newcode",
+      "description": "Méthodologie complète de programmation agentique : apprenez les fondamentaux avant de plonger dans les formations",
+      "cta": "Obtenir Notre Guide Newcode"
+    }
+  },
+  "sections": {
+    "loading": "Chargement de la section...",
+    "home": "Accueil",
+    "problem": "Problème",
+    "track": "Parcours",
+    "training": "Formation",
+    "solution": "Solution",
+    "contact": "Contact"
+  },
+  "problem": {
+    "title": "Pourquoi se former au développement agentique ?",
+    "challenges": {
+      "title": "Le changement est rapide & brutal",
+      "items": [
+        "Les grands groupes nous le montrent, le code devient généré majoritairement par IA et agents",
+        "Les outils disponibles amènent souvent à des résultats non pertinents",
+        "Personne ne montre comment les utiliser professionnellement",
+        "Contrôler ces agents et les aligner sur nos besoins est la clé"
+      ]
+    },
+    "promises": {
+      "title": "Ce qu'on vous permet de faire",
+      "items": [
+        "Comprendre le nouveau paradigme et en tirer parti",
+        "Faire le travail de 5 personnes avec une seule",
+        "Sortir du *vibe coding* pour adopter une programmation structurée, fiable et reproductible",
+        "Scaler vos projets sans augmenter vos effectifs",
+        "Déléguez aux agents spécialisés, et mettez leur puissance à votre service",
+        "Couvrir tout le cycle de développement logiciel avec les agents"
+      ]
+    }
+  },
+  "formation_overview": {
+    "title": "FORMATION NEWCODE",
+    "subtitle": "Deux parcours pour maîtriser la programmation agentique",
+    "formation_beginner": {
+      "title": "FORMATION DÉBUTANT",
+      "subtitle": "De zéro à votre première application",
+      "features": [
+        "6 heures intensives",
+        "Aucun prérequis technique",
+        "Outils visuels (Bolt, Lovable)",
+        "Résultat : Site ou app fonctionnel déployé"
+      ],
+      "quote": "Créez votre première application sans écrire une ligne de code"
+    },
+    "formation_advanced": {
+      "title": "FORMATION AVANCÉE",
+      "subtitle": "Maîtrisez l'orchestration d'agents",
+      "features": [
+        "Méthodologie SPARC complète",
+        "Claude Flow et agents spécialisés",
+        "Projets complexes et déploiement pro",
+        "Intégration bases de données et APIs"
+      ],
+      "quote": "Développez des applications de niveau professionnel"
+    },
+    "value_proposition": "Des connaissances métier aux applications fonctionnelles",
+    "subtitle_value": "Notre méthode transforme votre expertise en créations numériques",
+    "cta": "CHOISIR MA FORMATION",
+    "community_caption": "Notre communauté active où les apprenants partagent leurs créations",
+    "overview_title": "Aperçu de la Formation",
+    "duration_format_title": "Durée & Format",
+    "duration_format_description": "6 à 12 heures de formation intensive en ligne avec support communautaire. Suivez les leçons à votre rythme avec un accompagnement personnalisé. Cours mis à jour en continu — l'IA évolue, notre formation aussi.",
+    "level_title": "Niveau",
+    "level_description": "Débutants aux développeurs expérimentés souhaitant maîtriser les techniques agentiques. Aucun prérequis technique nécessaire pour commencer.",
+    "what_you_get_title": "Ce que vous obtenez",
+    "what_you_get_description": "Formation complète, communauté active, templates prêts à l'emploi, sessions live, réseau de développeurs et entrepreneurs.",
+    "community_members": "150+ membres actifs",
+    "community_projects": "50+ projets partagés",
+    "support_247": "💬 Support 24/7"
+  },
+  "tracks": {
+    "header": {
+      "badge": "Formation NEWCODE",
+      "title": "Choisissez votre formation",
+      "subtitle": "Deux parcours adaptés à votre niveau pour maîtriser la programmation agentique"
+    },
+    "formations": {
+      "debutant": {
+        "title": "Formation Kickstart",
+        "subtitle": "Créez votre premier site ou app avec l'IA en quelques heures",
+        "description": "Parfait pour les entrepreneurs, freelancers et débutants complets. Créez votre première application fonctionnelle sans aucune expérience technique préalable.",
+        "duration": "6 heures intensives",
+        "level": "Débutant",
+        "price": "280€",
+        "features": [
+          "Fondements de l'IA agentique",
+          "Premiers pas avec Claude Code et Bolt",
+          "Créer votre première application",
+          "Déploiement et mise en ligne"
+        ],
+        "benefits": [
+          "Application fonctionnelle en 6h",
+          "Support communautaire inclus",
+          "Templates prêts à l'emploi"
+        ],
+        "cta": "Créez votre app web en quelques heures",
+        "footer": "Commencez votre transformation dès aujourd'hui"
+      },
+      "avance": {
+        "title": "Formation Architecte: De l'idée au logiciel scalable",
+        "subtitle": "la vision d'un entrepreneur, la puissance d'un lead tech",
+        "description": "Formation professionnelle pour entrepreneurs et leads techniques. Maîtrisez l'architecture logicielle scalable et les méthodologies de développement enterprise.",
+        "duration": "12 heures intensives",
+        "level": "Professionnel",
+        "price": "3200€",
+        "features": [
+          "Architecture logicielle scalable",
+          "Méthodologies enterprise et patterns avancés",
+          "Leadership technique et prise de décision",
+          "De l'idée au déploiement professionnel"
+        ],
+        "benefits": [
+          "Logiciels scalables et robustes",
+          "Compétences de lead technique",
+          "Mentorat expert personnalisé"
+        ],
+        "cta": "Maîtriser l'Architecture Professionnelle",
+        "footer": "Pour entrepreneurs et leads techniques",
+        "overview": {
+          "title": "Vision d'entrepreneur, puissance d'un lead tech",
+          "description": "Cette formation avancée vous donne les compétences pour diriger des projets techniques complexes, de la conception architecturale au déploiement à grande échelle.",
+          "card": {
+            "badge": "Excellence Technique",
+            "title": "Compétences de Lead Technique",
+            "subtitle": "Maîtrisez l'art de l'architecture scalable",
+            "features": [
+              "Architecture systèmes distribués",
+              "Leadership technique avancé",
+              "Déploiement enterprise-grade"
+            ]
+          }
+        },
+        "curriculum": {
+          "title": "Programme de Formation Avancée",
+          "subtitle": "Six modules intensifs pour maîtriser l'architecture logicielle et le leadership technique"
+        },
+        "outcomes": {
+          "title": "Résultats Professionnels",
+          "subtitle": "Développez les compétences pour diriger des projets techniques de grande envergure",
+          "items": [
+            {
+              "title": "Architecture Scalable",
+              "description": "Concevez des systèmes robustes qui évoluent avec votre entreprise"
+            },
+            {
+              "title": "Leadership Technique",
+              "description": "Dirigez des équipes techniques avec confiance et vision"
+            },
+            {
+              "title": "Déploiement Enterprise",
+              "description": "Maîtrisez les processus de déploiement professionnel"
+            },
+            {
+              "title": "Prise de Décision",
+              "description": "Prenez des décisions techniques stratégiques éclairées"
+            },
+            {
+              "title": "Innovation AI-Native",
+              "description": "Intégrez l'IA dans vos architectures modernes"
+            },
+            {
+              "title": "Mentorat Expert",
+              "description": "Bénéficiez d'un accompagnement personnalisé"
+            }
+          ]
+        },
+        "cta_final": {
+          "title": "Prêt à Maîtriser l'Architecture Avancée ?",
+          "description": "Rejoignez cette formation intensive et développez les compétences de leadership technique pour diriger des projets d'envergure enterprise.",
+          "stats": [
+            {
+              "value": "12h",
+              "label": "Formation intensive"
+            },
+            {
+              "value": "Expert",
+              "label": "Niveau professionnel"
+            },
+            {
+              "value": "1:1",
+              "label": "Mentorat personnalisé"
+            }
+          ],
+          "back_button": "Voir toutes les formations"
+        },
+        "misc": {
+          "online_training": "Formation en ligne",
+          "learn_more": "En savoir plus",
+          "formation_avancee": "Formation Avancée",
+          "learning_objectives": "Objectifs d'apprentissage",
+          "key_topics": "Sujets clés"
+        },
+        "modules": {
+          "module_1": {
+            "title": "Architecture Logicielle Scalable",
+            "duration": "2h30",
+            "description": "Principes et patterns pour des systèmes évolutifs",
+            "learningObjectives": [
+              "Maîtriser les patterns d'architecture scalable",
+              "Concevoir des systèmes distribués robustes",
+              "Optimiser les performances à grande échelle"
+            ],
+            "keyTopics": [
+              "Microservices et architecture modulaire",
+              "Event-driven architecture",
+              "Database scaling patterns",
+              "Caching strategies avancées"
+            ]
+          },
+          "module_2": {
+            "title": "Leadership Technique et Prise de Décision",
+            "duration": "2h",
+            "description": "Développez vos compétences de lead technique",
+            "learningObjectives": [
+              "Prendre des décisions techniques stratégiques",
+              "Diriger des équipes techniques efficacement",
+              "Communiquer la vision technique aux stakeholders"
+            ],
+            "keyTopics": [
+              "Architecture decision records (ADR)",
+              "Technical debt management",
+              "Team leadership in tech",
+              "Stakeholder communication"
+            ]
+          },
+          "module_3": {
+            "title": "Méthodologies Enterprise et DevOps",
+            "duration": "2h",
+            "description": "Implémentez des processus enterprise-grade",
+            "learningObjectives": [
+              "Maîtriser les méthodologies Agile/Scrum à l'échelle",
+              "Implémenter CI/CD robuste",
+              "Gérer la qualité et la sécurité"
+            ],
+            "keyTopics": [
+              "Scaled Agile Framework (SAFe)",
+              "CI/CD enterprise patterns",
+              "Security by design",
+              "Quality assurance processes"
+            ]
+          },
+          "module_4": {
+            "title": "De l'Idée au Déploiement Professionnel",
+            "duration": "2h30",
+            "description": "Orchestration complète du cycle de développement",
+            "learningObjectives": [
+              "Gérer le cycle complet de développement",
+              "Orchestrer les phases de déploiement",
+              "Monitorer et maintenir en production"
+            ],
+            "keyTopics": [
+              "Product roadmap et planning",
+              "Deployment strategies",
+              "Monitoring et observability",
+              "Incident management"
+            ]
+          },
+          "module_5": {
+            "title": "AI-Native Development Architecture",
+            "duration": "1h30",
+            "description": "Intégrez l'IA dans vos architectures",
+            "learningObjectives": [
+              "Architecturer des systèmes AI-native",
+              "Intégrer des agents IA dans les workflows",
+              "Optimiser les performances AI"
+            ],
+            "keyTopics": [
+              "AI service architecture",
+              "Agent orchestration patterns",
+              "ML model deployment",
+              "AI monitoring et governance"
+            ]
+          },
+          "module_6": {
+            "title": "Mentorat Expert et Projet Capstone",
+            "duration": "1h30",
+            "description": "Accompagnement personnalisé sur votre projet",
+            "learningObjectives": [
+              "Appliquer les concepts à votre contexte",
+              "Recevoir des feedbacks d'experts",
+              "Planifier votre roadmap technique"
+            ],
+            "keyTopics": [
+              "Code review avec expert",
+              "Architecture review",
+              "Career development planning",
+              "Technical roadmap creation"
+            ]
+          }
+        }
+      }
+    },
+    "title": "Qui peut devenir créateur ?",
+    "subtitle": "Empowerment-focused messaging with pain point → solution transformation narrative.",
+    "developers": {
+      "title": "Développeurs & Équipes Tech",
+      "subtitle": "Orchestration d'agents, ingénierie de contexte",
+      "description": "Maîtrisez l'orchestration d'agents IA pour accélérer votre développement.",
+      "features": {
+        "title": "Ce que vous obtenez :",
+        "items": [
+          "Orchestration d'agents IA avancée",
+          "Environnements MCP configurés",
+          "Méthodologie specs et prompts",
+          "Projets complexes de A à Z"
+        ]
+      },
+      "benefits": {
+        "title": "Résultats typiques :",
+        "items": [
+          "Onboarding: 2 semaines → 2h",
+          "Cycles: 2-4 jours → 4-8h"
+        ]
+      },
+      "cta": "Parcours Technique",
+      "footer": "Pour développeurs & équipes tech"
+    },
+    "business": {
+      "title": "Dirigeants & Analystes",
+      "subtitle": "Programmation en langage naturel",
+      "description": "Comprenez la gestion de projets agentiques et créez vos outils internes.",
+      "features": {
+        "title": "Ce que vous obtenez :",
+        "items": [
+          "Gestion projets agentiques",
+          "Tableaux de bord personnalisés",
+          "Développement par spécifications",
+          "Support 30 jours inclus"
+        ]
+      },
+      "benefits": {
+        "title": "Résultats typiques :",
+        "items": [
+          "Tableaux de bord automatiques",
+          "Outils en jours, pas mois"
+        ]
+      },
+      "cta": "Parcours Business",
+      "footer": "Pour dirigeants & analystes"
+    },
+    "labels": {
+      "program": "Programme de formation",
+      "benefits": "Ce que vous obtenez"
+    }
+  },
+  "training": {
+    "title": "Contenu de la formation",
+    "subtitle": "8 modules structurés pour maîtriser la programmation agentique de A à Z.",
+    "modules": [
+      {
+        "title": "Comprendre les enjeux actuels du développement logiciel",
+        "description": "Identifier les vrais goulots d'étranglement et comprendre comment les agents IA peuvent alléger la charge."
+      },
+      {
+        "title": "Fondamentaux de la programmation agentique",
+        "description": "Différence entre vibe coding et programmation agentique. Principes pour structurer un workflow avec des agents."
+      },
+      {
+        "title": "Panorama des outils et pratiques",
+        "description": "État des lieux des derniers éditeurs de code et outils IA. Veille technologique des environnements de développement."
+      },
+      {
+        "title": "Mise en pratique avec Claude Code et outils incontournables",
+        "description": "Configuration d'un environnement de travail. Exemples d'utilisation concrète pour génération et automatisation."
+      },
+      {
+        "title": "Agents spécialisés et MCP",
+        "description": "Comprendre le rôle des agents dédiés. Comment garder les agents alignés et gérer la complexité."
+      },
+      {
+        "title": "Démonstrations pratiques",
+        "description": "Créer un site web à partir d'une description. Construire un tableau de bord en quelques étapes."
+      },
+      {
+        "title": "Productivité et efficacité",
+        "description": "Astuces, raccourcis et bonnes pratiques pour coder plus vite et plus proprement."
+      },
+      {
+        "title": "Du code au déploiement",
+        "description": "Bases du déploiement pour mettre en production ses projets rapidement et efficacement."
+      }
+    ]
+  },
+  "solution": {
+    "title": "Notre méthode de transformation",
+    "subtitle": "Formation pratique, guide complet et accompagnement vers l'autonomie.",
+    "subtitle_highlight": "Maîtrisez les outils, implémentez les méthodes, transformez vos processus.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Formation intensive",
+        "description": "Maîtrisez Claude Code, les MCP servers et l'art de travailler avec des agents spécialisés. Formation adaptée aux profils techniques et non-techniques."
+      },
+      {
+        "number": "02",
+        "title": "Cycle de développement complet",
+        "description": "Apprenez comment les agents couvrent tout le cycle : de la conception aux tests, du déploiement à la maintenance. Accessible même aux non-techniques."
+      },
+      {
+        "number": "03",
+        "title": "Guide et autonomie",
+        "description": "Manuel complet, templates de prompts, configurations prêtes et communauté Circle. Vos équipes travaillent efficacement avec les agents en toute autonomie."
+      }
+    ],
+    "next_step": "Étape suivante"
+  },
+  "footer": {
+    "company_description": "NEWCODE vous aide à construire et déployer vos solutions IA. Développeurs et dirigeants, tout le monde mérite l'accès aux capacités logicielles modernes.",
+    "sections": {
+      "navigation": "Navigation",
+      "services": "Services",
+      "legal": "Légal"
+    },
+    "quick_links": [
+      {
+        "name": "Accueil",
+        "href": "/"
+      },
+      {
+        "name": "Services",
+        "href": "/services"
+      },
+      {
+        "name": "Cas d'étude",
+        "href": "/case-studies"
+      },
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "À propos",
+        "href": "/about"
+      }
+    ],
+    "services_links": [
+      {
+        "name": "Audit de flux",
+        "href": "/services#audit"
+      },
+      {
+        "name": "Implémentation complète",
+        "href": "/services#implementation"
+      },
+      {
+        "name": "Transformation agence",
+        "href": "/services#transformation"
+      },
+      {
+        "name": "Formation équipe",
+        "href": "/services#training"
+      }
+    ],
+    "legal_links": [
+      {
+        "name": "Confidentialité",
+        "href": "/privacy"
+      },
+      {
+        "name": "Conditions",
+        "href": "/terms"
+      },
+      {
+        "name": "Cookies",
+        "href": "/cookies"
+      },
+      {
+        "name": "Mentions légales",
+        "href": "/legal"
+      }
+    ],
+    "copyright": "© 2025 NEWCODE. Tous droits réservés.",
+    "language": {
+      "current": "🇫🇷 Français",
+      "other": "🇺🇸 English"
+    }
+  },
+  "parcours": {
+    "meta": {
+      "title": "Votre Parcours d'Apprentissage en Programmation Agentique | Newcode",
+      "description": "Découvrez notre parcours progressif de formation : de débutant à architecte, maîtrisez la programmation agentique et créez des applications avec l'IA.",
+      "keywords": "parcours formation, programmation agentique, formation kickstart, formation architecte, apprentissage progressif, développement IA"
+    },
+    "hero": {
+      "title": "Votre Parcours d'Apprentissage",
+      "subtitle": "De débutant à architecte : maîtrisez la création d'applications avec l'IA",
+      "overview": "Découvrez notre approche progressive qui transforme les non-développeurs en créateurs d'applications grâce à la programmation agentique",
+      "levels": {
+        "beginner": "Débutant",
+        "intermediate": "Intermédiaire",
+        "expert": "Expert"
+      }
+    },
+    "formations": {
+      "title": "Nos Formations en Détail",
+      "subtitle": "Choisissez la formation qui correspond à votre niveau et vos objectifs",
+      "kickstart": {
+        "level": "Débutant",
+        "title": "Formation Kickstart",
+        "target": "Créez votre premier site ou app avec l'IA en quelques heures",
+        "price": "280€",
+        "duration": "6 heures",
+        "cta": "Commencer avec Formation Kickstart"
+      },
+      "architecte": {
+        "level": "Intermédiaire & Avancé",
+        "title": "Formation Architecte",
+        "target": "De l'idée au logiciel scalable : la vision d'un entrepreneur, la puissance d'un lead tech",
+        "price": "3200€",
+        "duration": "Formation approfondie",
+        "cta": "Accéder à Formation Architecte"
+      },
+      "price_label": "Prix",
+      "duration_label": "Durée"
+    }
+  },
+  "business": {
+    "hero": {
+      "badge": "Le Code n'était pas le Goulot",
+      "title": "De l'idée métier",
+      "title_highlight": "aux spécifications validées",
+      "description": "Le vrai goulot d'étranglement ? Définir les bonnes user stories, prioriser les bonnes fonctionnalités, valider les bons parcours utilisateurs.",
+      "description_highlight": "Les agents IA transforment vos besoins métier en prototypes testables pour valider les specs avant un développement coûteux.",
+      "process": {
+        "title": "Du Business aux Spécifications",
+        "steps": [
+          {
+            "title": "Définir User Stories",
+            "description": "Besoins utilisateurs → fonctionnalités concrètes"
+          },
+          {
+            "title": "Prioriser & UI/UX",
+            "description": "Roadmap + maquettes interactives"
+          },
+          {
+            "title": "Prototype Fonctionnel",
+            "description": "Les agents IA génèrent une interface testable"
+          },
+          {
+            "title": "Specs Validées",
+            "description": "Cahier des charges basé sur la réalité"
+          }
+        ]
+      },
+      "cta": {
+        "primary": "Apprendre la Méthode",
+        "secondary": "Voir le Processus"
+      }
+    },
+    "stats": {
+      "time": {
+        "value": "3 jours",
+        "label": "Vs 'peut-être en Q3'"
+      },
+      "cost": {
+        "value": "0€",
+        "label": "Coût développeur"
+      },
+      "control": {
+        "value": "100%",
+        "label": "Contrôle sur vos besoins"
+      }
+    },
+    "benefits": {
+      "title": "Le Code n'était pas le Goulot",
+      "description": "Le vrai problème ? Comprendre ce qu'il faut construire, pas comment le construire.",
+      "description_highlight": "Les agents IA transforment vos idées en prototypes testables en 3 jours.",
+      "features": [
+        {
+          "title": "Comprendre les Besoins",
+          "description": "90% des projets échouent parce qu'on construit la mauvaise chose"
+        },
+        {
+          "title": "Valider Rapidement",
+          "description": "De 18 mois de spec à 3 jours de prototype testé avec de vrais utilisateurs"
+        },
+        {
+          "title": "Éliminer le Gaspillage",
+          "description": "Arrêter de construire des fonctionnalités que personne n'utilise"
+        }
+      ],
+      "process": {
+        "title": "🔄 Le Nouveau Processus de Développement couvert par les agents IA",
+        "description": "Au lieu de 18 mois de spec → 6 mois de dev → échec, faites 3 jours de prototype → test utilisateur → itération",
+        "steps": [
+          {
+            "title": "Identifier",
+            "description": "Le vrai problème utilisateur"
+          },
+          {
+            "title": "Prototyper",
+            "description": "3 jours, code jetable"
+          },
+          {
+            "title": "Tester",
+            "description": "Feedback utilisateurs réels"
+          },
+          {
+            "title": "Itérer",
+            "description": "Améliorer ou pivoter"
+          },
+          {
+            "title": "Spécifier",
+            "description": "Cahier des charges validé"
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Arrêtez de construire la mauvaise chose",
+      "description": "Apprenez à utiliser les agents IA pour valider vos idées avec de vrais utilisateurs",
+      "description_highlight": "avant",
+      "description_end": "de perdre des mois en développement.",
+      "button": "Apprendre la Méthode",
+      "supporting_text": "3 jours de prototype valent mieux que 18 mois de spec"
+    }
+  },
+  "developers": {
+    "hero": {
+      "badge": "De ChatGPT aux Systèmes Orchestrés",
+      "title": "Maîtrisez les agents IA. Développez plus vite,",
+      "title_highlight": "avec plus de méthode.",
+      "description": "Nous vous formons à utiliser des systèmes d'orchestration d'agents capables de clarifier, coder, affiner, déboguer, tester et optimiser en continu pour garantir que le code généré correspond exactement à vos besoins.",
+      "stack": {
+        "title": "Stack IA Avancée",
+        "items": [
+          "Claude-code + wrapper multi-agents",
+          "Roocode + modes personnalisés",
+          "MCPs pour intégrations natives"
+        ]
+      },
+      "cta": {
+        "primary": "Réserver Évaluation Gratuite",
+        "secondary": "Découvrir la Formation"
+      }
+    },
+    "stats": {
+      "success_rate": {
+        "value": "<20%",
+        "label": "Succès vibe coding"
+      },
+      "speed_improvement": {
+        "value": "3x",
+        "label": "Plus rapide (agentique)"
+      },
+      "bug_reduction": {
+        "value": "90%",
+        "label": "Moins de bugs"
+      },
+      "onboarding": {
+        "value": "2h",
+        "label": "Onboarding (vs 2 semaines)"
+      }
+    },
+    "tech_watch": {
+      "title": "Veille Technologique Continue",
+      "description": "On vous garde au courant des nouveaux stack de développement logiciel, des MCP, des meilleures pratiques.",
+      "new_stacks": {
+        "title": "Nouveaux Stacks de Développement",
+        "description": "Restez à jour avec les dernières technologies et frameworks émergents"
+      },
+      "mcp_protocols": {
+        "title": "Protocoles MCP Avancés",
+        "description": "Découvrez les dernières innovations en Model Context Protocol"
+      },
+      "best_practices": {
+        "title": "Meilleures Pratiques",
+        "description": "Intégrez les standards industry et les patterns éprouvés"
+      }
+    },
+    "orchestration": {
+      "title": "Orchestration d'Agents",
+      "subtitle": "Le prochain niveau de Claude Code avec l'orchestration intelligente et les agents spécialisés.",
+      "limitations": {
+        "sequential": {
+          "title": "Exécution Séquentielle",
+          "description": "Claude Code traite un message à la fois",
+          "details": [
+            "Aucune parallélisation intégrée des tâches",
+            "Chaque appel d'outil se fait séquentiellement dans un message",
+            "Temps d'attente cumulatif sur les grandes opérations"
+          ]
+        },
+        "mono_agent": {
+          "title": "Approche Mono-Agent",
+          "description": "Une seule instance IA gérant tous les aspects",
+          "details": [
+            "Aucune spécialisation de rôles (architecte vs codeur vs testeur)",
+            "Approche monolithique de résolution de problèmes",
+            "Pas de perspectives multiples sur les défis complexes"
+          ]
+        },
+        "memory": {
+          "title": "Mémoire de Session Limitée",
+          "description": "Aucune persistance entre les sessions CLI",
+          "details": [
+            "Le contexte se remet à zéro quand tu fermes/rouvres",
+            "Doit rétablir la compréhension du projet à chaque fois",
+            "Perte des décisions et apprentissages précédents"
+          ]
+        },
+        "scalability": {
+          "title": "Défis de Scalabilité",
+          "description": "Performance dégradée sur très grandes bases de code",
+          "details": [
+            "Aucune coordination automatique pour workflows complexes multi-étapes",
+            "Décomposition manuelle des tâches requise",
+            "Gestion limitée des projets d'entreprise à grande échelle"
+          ]
+        }
+      },
+      "solution": {
+        "title": "La Solution d'Orchestration",
+        "description": "Notre système d'orchestration est un wrapper qui transforme Claude Code en une plateforme collaborative avancée. Il permet l'exécution parallèle, la spécialisation des agents, et de couvrir tout le cycle de développement.",
+        "batchtool": {
+          "title": "Principe BatchTool",
+          "description": "Encapsule plusieurs actions MCP dans un seul message pour l'exécution parallèle"
+        },
+        "coordination": {
+          "title": "Coordination Intelligente",
+          "description": "Réduction de la latence réseau, du nombre de tokens, et du temps de coordination"
+        },
+        "diagram_alt": "Diagram des modes d'orchestration"
+      }
+    },
+    "case_studies": {
+      "title": "Cas d'Usage Techniques",
+      "description": "Comment nos agents IA collaboratifs gèrent les préoccupations de sécurité",
+      "description_highlight": "avec un cycle constant de développement, test, alignement et vérification.",
+      "security": {
+        "title": "Cas d'Usage Sécurité",
+        "description": "Comment nos agents IA collaboratifs détectent et corrigent automatiquement les vulnérabilités",
+        "problem": {
+          "title": "Problème",
+          "description": "Débordements de tampon et vulnérabilités de sécurité non détectées"
+        },
+        "solution": {
+          "title": "Solution",
+          "description": "Agents de sécurité spécialisés travaillant en collaboration"
+        },
+        "result": {
+          "title": "Résultat",
+          "description": "Code sécurisé validé et prêt pour la production"
+        }
+      },
+      "cycle": {
+        "title": "🔄 Cycle Constant d'Agents Collaboratifs",
+        "agents": [
+          {
+            "name": "Agent Codeur",
+            "role": "Génère le code initial",
+            "phase": "Développement",
+            "actions": [
+              "Écrit le code selon les spécifications",
+              "Applique les patterns de sécurité connus",
+              "Utilise les meilleures pratiques du langage"
+            ],
+            "detects": [
+              "Débordements de tampon potentiels",
+              "Validation d'entrée insuffisante"
+            ]
+          },
+          {
+            "name": "Agent Sécurité",
+            "role": "Analyse les vulnérabilités",
+            "phase": "Test Sécurité",
+            "actions": [
+              "Scanne les vulnérabilités OWASP",
+              "Détecte les débordements de tampon",
+              "Valide la gestion des entrées utilisateur"
+            ],
+            "detects": [
+              "CVEs détectées",
+              "Patterns dangereux identifiés"
+            ]
+          },
+          {
+            "name": "Agent Alignement",
+            "role": "Vérifie les exigences",
+            "phase": "Alignement",
+            "actions": [
+              "Compare avec les exigences de sécurité",
+              "Valide l'alignement architectural",
+              "Confirme les standards d'entreprise"
+            ],
+            "detects": [
+              "Non-conformité aux standards",
+              "Exigences manquantes"
+            ]
+          },
+          {
+            "name": "Agent Qualité",
+            "role": "Applique les corrections",
+            "phase": "Application",
+            "actions": [
+              "Corrige les vulnérabilités détectées",
+              "Met à jour la documentation",
+              "Optimise le code sécurisé"
+            ],
+            "detects": [
+              "Corrections appliquées",
+              "Standards respectés"
+            ]
+          },
+          {
+            "name": "Sous-Agent Vérificateur",
+            "role": "Vérifie le code généré",
+            "phase": "Vérification",
+            "actions": [
+              "Tests de sécurité automatisés",
+              "Métriques de qualité",
+              "Validation continue"
+            ],
+            "detects": [
+              "Code vérifié et sécurisé",
+              "Prêt pour la production"
+            ]
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Prêt à Transformer Votre Développement ?",
+      "description": "Évaluation gratuite adaptée à votre profil technique. Nous analyserons vos besoins et vous montrerons exactement comment implémenter l'orchestration d'agents IA.",
+      "benefits": [
+        "Évaluation technique gratuite de 30 minutes",
+        "Recommandations personnalisées de stack IA",
+        "Démonstration d'orchestration d'agents en direct",
+        "Feuille de route d'implémentation immédiate"
+      ],
+      "button": "Réserver Évaluation Technique",
+      "supporting_text": "Consultation technique gratuite sans argumentaire de vente. Juste des insights exploitables sur votre workflow de développement et les possibilités d'intégration IA.",
+      "guarantee": "Pas de vente, pas d'engagement, que des solutions"
+    }
+  },
+  "booking": {
+    "hero": {
+      "title": "Réservez votre audit gratuit de flux de travail",
+      "subtitle": "Appel de 30 minutes pour identifier vos plus grandes opportunités de productivité",
+      "description": "En 30 minutes, nous analyserons votre processus de développement actuel et identifierons les trois plus grandes opportunités d'accélération alimentée par l'IA.",
+      "description_highlight": "Pas d'argumentaire de vente, pas d'engagement requis",
+      "description_end": "– juste des insights exploitables que vous pouvez implémenter immédiatement.",
+      "benefits": [
+        "30 minutes seulement",
+        "Recommandations personnalisées",
+        "Insights exploitables",
+        "Aucun engagement"
+      ],
+      "trust_indicators": [
+        "50+ équipes auditées",
+        "Recommandations spécifiques",
+        "Résultats immédiats"
+      ]
+    },
+    "form": {
+      "title": "Réserver votre audit gratuit",
+      "fields": {
+        "full_name": {
+          "label": "Nom complet *",
+          "placeholder": "Votre nom"
+        },
+        "email": {
+          "label": "Email *",
+          "placeholder": "votre@email.com"
+        },
+        "company": {
+          "label": "Entreprise / Organisation",
+          "placeholder": "Nom de votre entreprise"
+        },
+        "team_size": {
+          "label": "Taille de l'équipe de développement *",
+          "placeholder": "Sélectionnez la taille",
+          "options": [
+            "Développeur solo",
+            "2-3 développeurs",
+            "4-8 développeurs",
+            "9-15 développeurs",
+            "15+ développeurs"
+          ]
+        },
+        "main_challenge": {
+          "label": "Principal défi actuel *",
+          "placeholder": "Sélectionnez votre défi",
+          "options": [
+            "Vélocité de développement incohérente",
+            "Intégration développeur trop lente",
+            "Trop de tâches répétitives",
+            "Maintenir la qualité à vitesse",
+            "Difficultés d'évolution équipe",
+            "Marges projet en baisse",
+            "Autre défi"
+          ]
+        },
+        "service_interest": {
+          "label": "Service qui vous intéresse",
+          "placeholder": "Sélectionnez un service",
+          "options": [
+            "Audit & Gains Rapides (2 500€)",
+            "Implémentation Complète (15 000€)",
+            "Transformation Agence (35 000€)",
+            "Pas sûr / Découvrir les options"
+          ]
+        },
+        "preferred_time": {
+          "label": "Créneaux préférés",
+          "placeholder": "Sélectionnez un créneau",
+          "options": [
+            "Matin (9h-12h)",
+            "Après-midi (14h-17h)",
+            "Flexible"
+          ]
+        },
+        "additional_message": {
+          "label": "Message additionnel (optionnel)",
+          "placeholder": "Dites-nous en plus sur vos défis ou objectifs spécifiques..."
+        }
+      },
+      "button": "Réserver mon audit gratuit",
+      "privacy_notice": "En soumettant ce formulaire, vous acceptez d'être contacté par notre équipe concernant votre audit gratuit. Nous respectons votre vie privée et ne partagerons jamais vos informations."
+    },
+    "what_to_expect": {
+      "title": "À quoi s'attendre pendant l'appel",
+      "steps": [
+        {
+          "title": "Présentation et contexte",
+          "duration": "5 min",
+          "description": "Nous apprenons à connaître votre équipe, vos projets actuels et vos objectifs de productivité."
+        },
+        {
+          "title": "Analyse du flux de travail",
+          "duration": "15 min",
+          "description": "Nous examinons votre processus de développement actuel, identifions les goulots d'étranglement et les opportunités d'automatisation."
+        },
+        {
+          "title": "Recommandations spécifiques",
+          "duration": "8 min",
+          "description": "Nous partageons 3-5 améliorations IA spécifiques que vous pouvez implémenter immédiatement pour des gains rapides."
+        },
+        {
+          "title": "Prochaines étapes",
+          "duration": "2 min",
+          "description": "Nous discutons des options pour une transformation plus approfondie si vous êtes intéressé."
+        }
+      ]
+    },
+    "what_you_receive": {
+      "title": "Ce que vous recevrez",
+      "items": [
+        "Analyse gratuite de votre flux de travail de développement actuel",
+        "Identification des 3 plus grandes opportunités d'amélioration IA",
+        "Recommandations d'outils spécifiques pour votre pile technologique",
+        "Plan d'action avec gains rapides implémentables en 1-2 semaines",
+        "Estimation du ROI potentiel de l'automatisation IA",
+        "Guide de ressources personnalisé envoyé après l'appel"
+      ]
+    },
+    "how_to_prepare": {
+      "title": "Comment se préparer",
+      "steps": [
+        "Réfléchissez à vos principaux défis de productivité actuels",
+        "Préparez une vue d'ensemble de votre pile technologique",
+        "Notez les tâches répétitives qui prennent le plus de temps",
+        "Ayez une idée de vos objectifs de croissance à 6-12 mois"
+      ],
+      "note": "Aucune préparation technique n'est requise. Nous nous concentrons sur la compréhension de vos défis et objectifs plutôt que sur les détails techniques."
+    },
+    "contact_alternatives": {
+      "title": "Autres moyens de nous contacter",
+      "email": {
+        "title": "Email direct",
+        "address": "philbeliv@gmail.com",
+        "response_time": "Réponse sous 4 heures en jours ouvrables"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "number": "+1 514-773-4780",
+        "availability": "Lundi-Vendredi, 9h-18h (heure de Paris)"
+      },
+      "live_chat": {
+        "title": "Chat en direct",
+        "description": "Support instantané",
+        "availability": "Disponible pendant les heures ouvrables"
+      }
+    },
+    "contact_info": {
+      "title": "Informations de contact",
+      "response_time": {
+        "title": "Temps de réponse",
+        "value": "4 heures maximum",
+        "note": "En jours ouvrables"
+      },
+      "availability": {
+        "title": "Disponibilité",
+        "value": "Lundi - Vendredi",
+        "hours": "9h00 - 18h00 (Paris)"
+      },
+      "timezone": {
+        "title": "Fuseau horaire",
+        "value": "Europe/Paris",
+        "note": "UTC+1/UTC+2"
+      }
+    },
+    "faq_section": {
+      "title": "Des questions avant de réserver ?",
+      "description": "Consultez nos questions fréquentes ou contactez-nous directement.",
+      "links": {
+        "faq": "Voir les FAQ →",
+        "email": "Poser une question par email →"
+      }
+    },
+    "testimonial": {
+      "quote": "L'audit gratuit m'a donné 3 recommandations spécifiques que j'ai pu implémenter immédiatement. En une semaine, j'ai économisé 6 heures de travail répétitif.",
+      "author": {
+        "name": "Alexandre L.",
+        "title": "Développeur Full-Stack"
+      }
+    }
+  },
+  "methodology": {
+    "title": "Méthodologie BMAD - Développement Structuré par IA",
+    "subtitle": "Découvrez notre approche structurée qui transforme les idées en applications fonctionnelles grâce à la collaboration d'agents IA spécialisés.",
+    "workflow": {
+      "title": "Flux de Travail IA Interactif",
+      "description": "Chaque étape de notre méthodologie fait appel à des agents IA spécialisés pour structurer votre processus de développement, de l'idée initiale jusqu'au déploiement en production.",
+      "simulate": "Simuler",
+      "reset": "Réinitialiser",
+      "running": "En cours...",
+      "steps": {
+        "start": {
+          "title": "Idée de Projet",
+          "description": "Chaque grande application commence par une idée. Notre méthode structurée aide à structurer et valider votre concept."
+        },
+        "research-phase": {
+          "title": "Phase de Recherche",
+          "description": "L'agent Analyste effectue une recherche de marché complète, une analyse concurrentielle et crée un brief de projet stratégique."
+        },
+        "project-brief": {
+          "title": "Brief de Projet",
+          "description": "Brief de projet complet avec insights de recherche, analyse de marché et direction stratégique claire."
+        },
+        "pm-planning": {
+          "title": "Planification PM",
+          "description": "Le Product Manager crée un PRD détaillé avec exigences fonctionnelles, non-fonctionnelles, epics et user stories."
+        },
+        "ux-decision": {
+          "title": "UX Requis ?",
+          "description": "Point de décision : Ce projet nécessite-t-il des spécifications UX et un design front-end détaillé ?"
+        },
+        "ux-design": {
+          "title": "Design UX",
+          "description": "L'Expert UX crée des spécifications front-end complètes, wireframes et système de design."
+        },
+        "architecture": {
+          "title": "Architecture Système",
+          "description": "L'Architecte conçoit l'architecture technique, sélectionne les technologies et définit l'API."
+        },
+        "qa-validation": {
+          "title": "Validation QA",
+          "description": "L'Assurance Qualité examine l'architecture pour les tests, la sécurité et l'atténuation des risques."
+        },
+        "final-review": {
+          "title": "Révision Finale",
+          "description": "Le Product Owner valide l'alignement de tous les documents et la préparation pour le développement."
+        },
+        "development-ready": {
+          "title": "🚀 Développement Prêt",
+          "description": "Tous les documents sont validés et alignés. Transition vers l'IDE pour commencer le cycle de développement avec vos agents de codage."
+        }
+      },
+      "legend": {
+        "user_interaction": "Interaction Utilisateur Disponible",
+        "current_step": "Étape Actuelle",
+        "completed_step": "Étape Terminée",
+        "workflow_connection": "Connexion Workflow"
+      },
+      "interaction": {
+        "title": "💬 Interaction Utilisateur",
+        "description": "À cette étape, vous pouvez discuter des exigences, poser des questions et fournir des retours au {agent}. L'agent sollicitera votre contribution pour s'assurer que la sortie répond à vos besoins spécifiques."
+      }
+    },
+    "benefits": {
+      "title": "Avantages Clés de Notre Méthodologie",
+      "items": [
+        "Développement structuré avec des agents IA spécialisés pour chaque étape",
+        "Réduction significative du temps de développement et d'itération",
+        "Qualité et fiabilité accrues grâce aux validations automatisées",
+        "Workflows reproductibles pour tous vos futurs projets"
+      ]
+    },
+    "agents": {
+      "architect": {
+        "name": "Architecte Système",
+        "role": "Conçoit la structure globale",
+        "status": "analyse"
+      },
+      "researcher": {
+        "name": "Agent Recherche",
+        "role": "Collecte les exigences",
+        "status": "recherche"
+      },
+      "coder": {
+        "name": "Générateur de Code",
+        "role": "Implémente les fonctionnalités",
+        "status": "codage"
+      },
+      "tester": {
+        "name": "Agent Qualité",
+        "role": "Assure la fiabilité",
+        "status": "test"
+      },
+      "security": {
+        "name": "Agent Sécurité",
+        "role": "Valide la sécurité",
+        "status": "scan"
+      }
+    },
+    "content": {
+      "introduction": {
+        "title": "Qu'est-ce que notre Méthode Structurée ?",
+        "description": "Notre framework structuré transforme les idées de projet en applications prêtes pour la production grâce à la collaboration d'agents intelligents et au traitement humain-dans-la-boucle.",
+        "principles": {
+          "natural_language": {
+            "title": "Langage Naturel d'Abord",
+            "description": "Utilise le langage naturel pour un flux de travail assisté par IA avec une documentation claire et lisible."
+          },
+          "agent_collaboration": {
+            "title": "Collaboration d'Agents",
+            "description": "Des agents spécialisés travaillent ensemble tout en vous gardant en contrôle des décisions."
+          },
+          "full_lifecycle": {
+            "title": "Cycle de Vie Complet",
+            "description": "Couvre l'idéation jusqu'au déploiement avec des processus structurés et répétables."
+          }
+        }
+      },
+      "features": {
+        "title": "Caractéristiques Clés de notre Méthode",
+        "items": {
+          "human_loop": {
+            "title": "Traitement Humain-dans-la-Boucle",
+            "description": "Chaque agent sollicite activement votre contribution et vos retours tout au long du processus, s'assurant que la sortie correspond à votre vision."
+          },
+          "decision_points": {
+            "title": "Points de Décision Structurés",
+            "description": "Des points de décision clairs où vous choisissez la voie à suivre, de la profondeur de recherche aux exigences UX."
+          },
+          "document_driven": {
+            "title": "Développement Dirigé par Documents",
+            "description": "Documentation complète créée avant que le codage ne commence, assurant des exigences et une architecture claires."
+          },
+          "validation": {
+            "title": "Validation & Alignement",
+            "description": "Plusieurs points de contrôle de validation s'assurent que tous les documents et exigences sont cohérents et complets."
+          },
+          "ide_transition": {
+            "title": "Transition IDE Sans Couture",
+            "description": "Passation en douceur de la planification web au développement basé sur IDE avec des documents correctement préparés."
+          },
+          "ai_optimized": {
+            "title": "Sortie Optimisée IA",
+            "description": "Tous les documents sont structurés pour une consommation optimale par les agents et outils de développement IA."
+          }
+        }
+      },
+      "phases": {
+        "title": "Phases de Développement",
+        "items": {
+          "discovery": {
+            "title": "Découverte & Recherche",
+            "description": "Phase de recherche de marché et d'analyse concurrentielle optionnelle mais puissante",
+            "steps": {
+              "0": "Recherche de Marché",
+              "1": "Analyse Concurrentielle",
+              "2": "Création de Brief Stratégique"
+            }
+          },
+          "requirements": {
+            "title": "Définition des Exigences",
+            "description": "Collecte d'exigences complète avec collaboration humaine",
+            "steps": {
+              "0": "Création PRD",
+              "1": "Exigences Fonctionnelles",
+              "2": "Exigences Non-Fonctionnelles",
+              "3": "User Stories"
+            }
+          },
+          "design": {
+            "title": "Design & Architecture",
+            "description": "Spécifications UX et conception d'architecture technique",
+            "steps": {
+              "0": "Spécifications UX",
+              "1": "Architecture Système",
+              "2": "Sélection Technologie",
+              "3": "Design API"
+            }
+          },
+          "validation": {
+            "title": "Validation & Passation",
+            "description": "Assurance qualité et préparation pour le développement",
+            "steps": {
+              "0": "Alignement Documents",
+              "1": "Révision Qualité",
+              "2": "Préparation IDE",
+              "3": "Passation Développement"
+            }
+          }
+        }
+      },
+      "agents": {
+        "title": "Rencontrez Votre Équipe d'Agents IA",
+        "responsibilities": "Responsabilités",
+        "interaction_title": "Comment Vous Interagissez",
+        "items": {
+          "analyst": {
+            "name": "Agent Analyste",
+            "role": "Recherche Marché & Stratégie",
+            "responsibilities": {
+              "0": "Effectue une recherche de marché complète",
+              "1": "Réalise une analyse concurrentielle",
+              "2": "Crée des briefs de projet stratégiques",
+              "3": "Valide les opportunités commerciales",
+              "4": "Fournit des insights basés sur les données"
+            },
+            "interaction": "Discute des conditions de marché, du public cible et de la stratégie commerciale avec vous pour s'assurer que le projet s'aligne avec les besoins du marché."
+          },
+          "pm": {
+            "name": "Product Manager",
+            "role": "Exigences & Planification",
+            "responsibilities": {
+              "0": "Crée des PRD détaillés (Documents d'Exigences Produit)",
+              "1": "Définit les exigences fonctionnelles et non-fonctionnelles",
+              "2": "Structure les epics et user stories",
+              "3": "Gère la portée et les priorités du projet",
+              "4": "Assure l'alignement des parties prenantes"
+            },
+            "interaction": "Travaille avec vous pour comprendre exactement ce que vous voulez construire, posant des questions détaillées sur les fonctionnalités, contraintes et critères de succès."
+          },
+          "ux": {
+            "name": "Expert UX",
+            "role": "Expérience Utilisateur & Design",
+            "responsibilities": {
+              "0": "Crée des spécifications front-end",
+              "1": "Conçoit des systèmes d'interface utilisateur",
+              "2": "Génère des prompts UI optimisés IA",
+              "3": "Assure la conformité d'accessibilité",
+              "4": "Optimise les flux d'expérience utilisateur"
+            },
+            "interaction": "Collabore sur les décisions d'expérience utilisateur, les préférences de design et les exigences d'interface pour créer des applications intuitives."
+          },
+          "architect": {
+            "name": "Architecte Système",
+            "role": "Architecture Technique",
+            "responsibilities": {
+              "0": "Conçoit l'architecture système",
+              "1": "Sélectionne les stacks technologiques",
+              "2": "Planifie les structures de base de données",
+              "3": "Définit les spécifications API",
+              "4": "Assure la scalabilité et la performance"
+            },
+            "interaction": "Discute des préférences techniques, exigences de scalabilité et besoins d'intégration pour construire une architecture système robuste."
+          },
+          "qa": {
+            "name": "Spécialiste QA",
+            "role": "Assurance Qualité",
+            "responsibilities": {
+              "0": "Effectue une évaluation précoce des risques",
+              "1": "Conçoit des stratégies de test",
+              "2": "Examine l'architecture pour la testabilité",
+              "3": "Identifie les problèmes potentiels",
+              "4": "Assure les standards de qualité"
+            },
+            "interaction": "Examine votre projet pour les risques potentiels et préoccupations de qualité, suggérant des stratégies de test et améliorations de qualité."
+          },
+          "po": {
+            "name": "Product Owner",
+            "role": "Coordination & Validation",
+            "responsibilities": {
+              "0": "Exécute les checklists de validation maître",
+              "1": "Assure l'alignement des documents",
+              "2": "Coordonne entre les agents",
+              "3": "Gère la fragmentation des documents",
+              "4": "Facilite les passations fluides"
+            },
+            "interaction": "S'assure que tous les documents de planification sont cohérents et complets, coordonnant les retours entre vous et les autres agents."
+          }
+        }
+      },
+      "conclusion": {
+        "title": "Pourquoi Choisir notre Méthode ?",
+        "description": "Notre méthode transforme les démarrages de projet chaotiques en flux de travail structurés dirigés par agents. Des idées éparses aux spécifications prêtes pour la production, avec vous en contrôle à chaque étape.",
+        "metrics": {
+          "faster_planning": "Planification Plus Rapide",
+          "structured_output": "Sortie Structurée",
+          "specialized_agents": "Agents Spécialisés"
+        },
+        "cta": "Apprenez Notre Implémentation"
+      }
+    },
+    "results": {},
+    "methodology_cta": {
+      "title": "Prêt à Découvrir Notre Méthodologie ?",
+      "description": "Expérimentez la puissance du développement IA structuré. De la complexité éparpillée aux résultats organisés et prévisibles.",
+      "button": "Expérimentez la Méthodologie"
+    }
+  },
+  "bmad": {
+    "title": "Méthode de Développement Structuré par IA",
+    "subtitle": "Découvrez le flux de travail complet qui transforme les idées de projet en applications prêtes pour la production grâce à la collaboration d'agents intelligents et à la planification structurée.",
+    "workflow": {
+      "title": "Flux de Travail IA Interactif",
+      "description": "Cliquez sur n'importe quelle étape pour en savoir plus sur les interactions d'agents. Chaque étape montre comment vous pouvez collaborer avec des agents IA spécialisés pour structurer votre processus de développement.",
+      "simulate": "Simuler",
+      "reset": "Réinitialiser",
+      "running": "En cours...",
+      "steps": {
+        "start": {
+          "title": "Idée de Projet",
+          "description": "Chaque grande application commence par une idée. Notre méthode structurée aide à structurer et valider votre concept."
+        },
+        "research-phase": {
+          "title": "Phase de Recherche",
+          "description": "L'agent Analyste effectue une recherche de marché complète, une analyse concurrentielle et crée un brief de projet stratégique."
+        },
+        "project-brief": {
+          "title": "Brief de Projet",
+          "description": "Brief de projet complet avec insights de recherche, analyse de marché et direction stratégique claire."
+        },
+        "pm-planning": {
+          "title": "Planification PM",
+          "description": "Le Product Manager crée un PRD détaillé avec exigences fonctionnelles, non-fonctionnelles, epics et user stories."
+        },
+        "ux-decision": {
+          "title": "UX Requis ?",
+          "description": "Point de décision : Ce projet nécessite-t-il des spécifications UX et un design front-end détaillé ?"
+        },
+        "ux-design": {
+          "title": "Design UX",
+          "description": "L'Expert UX crée des spécifications front-end complètes, wireframes et système de design."
+        },
+        "architecture": {
+          "title": "Architecture Système",
+          "description": "L'Architecte conçoit l'architecture technique, sélectionne les technologies et définit l'API."
+        },
+        "qa-validation": {
+          "title": "Validation QA",
+          "description": "L'Assurance Qualité examine l'architecture pour les tests, la sécurité et l'atténuation des risques."
+        },
+        "final-review": {
+          "title": "Révision Finale",
+          "description": "Le Product Owner valide l'alignement de tous les documents et la préparation pour le développement."
+        },
+        "development-ready": {
+          "title": "🚀 Développement Prêt",
+          "description": "Tous les documents sont validés et alignés. Transition vers l'IDE pour commencer le cycle de développement avec vos agents de codage."
+        }
+      },
+      "legend": {
+        "user_interaction": "Interaction Utilisateur Disponible",
+        "current_step": "Étape Actuelle",
+        "completed_step": "Étape Terminée",
+        "workflow_connection": "Connexion Workflow"
+      },
+      "interaction": {
+        "title": "💬 Interaction Utilisateur",
+        "description": "À cette étape, vous pouvez discuter des exigences, poser des questions et fournir des retours au {agent}. L'agent sollicitera votre contribution pour s'assurer que la sortie répond à vos besoins spécifiques."
+      }
+    },
+    "content": {
+      "introduction": {
+        "title": "Qu'est-ce que notre Méthode Structurée ?",
+        "description": "Notre framework structuré transforme les idées de projet en applications prêtes pour la production grâce à la collaboration d'agents intelligents et au traitement humain-dans-la-boucle.",
+        "principles": {
+          "natural_language": {
+            "title": "Langage Naturel d'Abord",
+            "description": "Utilise le langage naturel pour un flux de travail assisté par IA avec une documentation claire et lisible."
+          },
+          "agent_collaboration": {
+            "title": "Collaboration d'Agents",
+            "description": "Des agents spécialisés travaillent ensemble tout en vous gardant en contrôle des décisions."
+          },
+          "full_lifecycle": {
+            "title": "Cycle de Vie Complet",
+            "description": "Couvre l'idéation jusqu'au déploiement avec des processus structurés et répétables."
+          }
+        }
+      },
+      "features": {
+        "title": "Caractéristiques Clés de notre Méthode",
+        "items": {
+          "human_loop": {
+            "title": "Traitement Humain-dans-la-Boucle",
+            "description": "Chaque agent sollicite activement votre contribution et vos retours tout au long du processus, s'assurant que la sortie correspond à votre vision."
+          },
+          "decision_points": {
+            "title": "Points de Décision Structurés",
+            "description": "Des points de décision clairs où vous choisissez la voie à suivre, de la profondeur de recherche aux exigences UX."
+          },
+          "document_driven": {
+            "title": "Développement Dirigé par Documents",
+            "description": "Documentation complète créée avant que le codage ne commence, assurant des exigences et une architecture claires."
+          },
+          "validation": {
+            "title": "Validation & Alignement",
+            "description": "Plusieurs points de contrôle de validation s'assurent que tous les documents et exigences sont cohérents et complets."
+          },
+          "ide_transition": {
+            "title": "Transition IDE Sans Couture",
+            "description": "Passation en douceur de la planification web au développement basé sur IDE avec des documents correctement préparés."
+          },
+          "ai_optimized": {
+            "title": "Sortie Optimisée IA",
+            "description": "Tous les documents sont structurés pour une consommation optimale par les agents et outils de développement IA."
+          }
+        }
+      },
+      "phases": {
+        "title": "Phases de Développement",
+        "items": {
+          "discovery": {
+            "title": "Découverte & Recherche",
+            "description": "Phase de recherche de marché et d'analyse concurrentielle optionnelle mais puissante",
+            "steps": {
+              "0": "Recherche de Marché",
+              "1": "Analyse Concurrentielle",
+              "2": "Création de Brief Stratégique"
+            }
+          },
+          "requirements": {
+            "title": "Définition des Exigences",
+            "description": "Collecte d'exigences complète avec collaboration humaine",
+            "steps": {
+              "0": "Création PRD",
+              "1": "Exigences Fonctionnelles",
+              "2": "Exigences Non-Fonctionnelles",
+              "3": "User Stories"
+            }
+          },
+          "design": {
+            "title": "Design & Architecture",
+            "description": "Spécifications UX et conception d'architecture technique",
+            "steps": {
+              "0": "Spécifications UX",
+              "1": "Architecture Système",
+              "2": "Sélection Technologie",
+              "3": "Design API"
+            }
+          },
+          "validation": {
+            "title": "Validation & Passation",
+            "description": "Assurance qualité et préparation pour le développement",
+            "steps": {
+              "0": "Alignement Documents",
+              "1": "Révision Qualité",
+              "2": "Préparation IDE",
+              "3": "Passation Développement"
+            }
+          }
+        }
+      },
+      "agents": {
+        "title": "Rencontrez Votre Équipe d'Agents IA",
+        "responsibilities": "Responsabilités",
+        "interaction_title": "Comment Vous Interagissez",
+        "items": {
+          "analyst": {
+            "name": "Agent Analyste",
+            "role": "Recherche Marché & Stratégie",
+            "responsibilities": {
+              "0": "Effectue une recherche de marché complète",
+              "1": "Réalise une analyse concurrentielle",
+              "2": "Crée des briefs de projet stratégiques",
+              "3": "Valide les opportunités commerciales",
+              "4": "Fournit des insights basés sur les données"
+            },
+            "interaction": "Discute des conditions de marché, du public cible et de la stratégie commerciale avec vous pour s'assurer que le projet s'aligne avec les besoins du marché."
+          },
+          "pm": {
+            "name": "Product Manager",
+            "role": "Exigences & Planification",
+            "responsibilities": {
+              "0": "Crée des PRD détaillés (Documents d'Exigences Produit)",
+              "1": "Définit les exigences fonctionnelles et non-fonctionnelles",
+              "2": "Structure les epics et user stories",
+              "3": "Gère la portée et les priorités du projet",
+              "4": "Assure l'alignement des parties prenantes"
+            },
+            "interaction": "Travaille avec vous pour comprendre exactement ce que vous voulez construire, posant des questions détaillées sur les fonctionnalités, contraintes et critères de succès."
+          },
+          "ux": {
+            "name": "Expert UX",
+            "role": "Expérience Utilisateur & Design",
+            "responsibilities": {
+              "0": "Crée des spécifications front-end",
+              "1": "Conçoit des systèmes d'interface utilisateur",
+              "2": "Génère des prompts UI optimisés IA",
+              "3": "Assure la conformité d'accessibilité",
+              "4": "Optimise les flux d'expérience utilisateur"
+            },
+            "interaction": "Collabore sur les décisions d'expérience utilisateur, les préférences de design et les exigences d'interface pour créer des applications intuitives."
+          },
+          "architect": {
+            "name": "Architecte Système",
+            "role": "Architecture Technique",
+            "responsibilities": {
+              "0": "Conçoit l'architecture système",
+              "1": "Sélectionne les stacks technologiques",
+              "2": "Planifie les structures de base de données",
+              "3": "Définit les spécifications API",
+              "4": "Assure la scalabilité et la performance"
+            },
+            "interaction": "Discute des préférences techniques, exigences de scalabilité et besoins d'intégration pour construire une architecture système robuste."
+          },
+          "qa": {
+            "name": "Spécialiste QA",
+            "role": "Assurance Qualité",
+            "responsibilities": {
+              "0": "Effectue une évaluation précoce des risques",
+              "1": "Conçoit des stratégies de test",
+              "2": "Examine l'architecture pour la testabilité",
+              "3": "Identifie les problèmes potentiels",
+              "4": "Assure les standards de qualité"
+            },
+            "interaction": "Examine votre projet pour les risques potentiels et préoccupations de qualité, suggérant des stratégies de test et améliorations de qualité."
+          },
+          "po": {
+            "name": "Product Owner",
+            "role": "Coordination & Validation",
+            "responsibilities": {
+              "0": "Exécute les checklists de validation maître",
+              "1": "Assure l'alignement des documents",
+              "2": "Coordonne entre les agents",
+              "3": "Gère la fragmentation des documents",
+              "4": "Facilite les passations fluides"
+            },
+            "interaction": "S'assure que tous les documents de planification sont cohérents et complets, coordonnant les retours entre vous et les autres agents."
+          }
+        }
+      },
+      "conclusion": {
+        "title": "Pourquoi Choisir notre Méthode ?",
+        "description": "Notre méthode transforme les démarrages de projet chaotiques en flux de travail structurés dirigés par agents. Des idées éparses aux spécifications prêtes pour la production, avec vous en contrôle à chaque étape.",
+        "metrics": {
+          "faster_planning": "Planification Plus Rapide",
+          "structured_output": "Sortie Structurée",
+          "specialized_agents": "Agents Spécialisés"
+        },
+        "cta": "Apprenez Notre Implémentation"
+      }
+    },
+    "benefits": {
+      "title": "Avantages Clés",
+      "items": [
+        "Le flux de travail structuré élimine les démarrages de projet chaotiques",
+        "85% plus rapide planification avec des agents IA spécialisés",
+        "100% de sortie structurée avec validation humaine dans la boucle",
+        "6+ agents spécialisés travaillant en collaboration"
+      ]
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "NEWCODE - Développement IA Accéléré",
+      "description": "NEWCODE vous aide à construire et déployer vos solutions IA. Tout le monde mérite l'accès aux capacités logicielles modernes."
+    },
+    "about": {
+      "title": "À propos - NEWCODE",
+      "description": "Découvrez Philippe Béliveau, fondateur de NEWCODE. Expert en IA et développement logiciel, passionné par la démocratisation technologique."
+    },
+    "business": {
+      "title": "Business - NEWCODE",
+      "description": "Solutions métier sans code basées sur l'IA. Automatisez vos processus et gagnez en efficacité sans équipe technique."
+    },
+    "book_demo": {
+      "title": "Réserver une démo - NEWCODE",
+      "description": "Réservez votre évaluation gratuite et découvrez comment l'IA peut transformer vos processus. Audit personnalisé inclus."
+    },
+    "developers": {
+      "title": "Développeurs - NEWCODE",
+      "description": "Solutions techniques avancées pour développeurs. Maîtrisez l'orchestration d'agents IA et l'architecture logicielle moderne."
+    }
+  },
+  "team": {
+    "title": "Rencontrez l'équipe",
+    "subtitle": "Notre équipe d'experts en programmation agentique vous accompagne dans votre transformation vers le développement dirigé par l'IA.",
+    "members": [
+      {
+        "name": "Philippe Béliveau",
+        "title": "Développeur agentique et data scientist",
+        "description": "Philippe Béliveau est un développeur de recherche en IA, diplômé d'une Msc en Science des données de HEC Montréal.",
+        "image": "/philippe-beliveau.png",
+        "alt": "Philippe Béliveau"
+      },
+      {
+        "name": "Baptiste Wieczorek",
+        "title": "Développeur agentique et data scientist",
+        "description": "Formé au Canada (Polytechnique & HEC), expert en IA, automatisation et déploiement technique, ayant accompagné plus de 50 projets de transformation de PME.",
+        "image": "/baptiste-wieczorek.jpeg",
+        "alt": "Baptiste Wieczorek"
+      },
+      {
+        "name": "Yoan Hibert",
+        "title": "Formateur en IA, en automatisation et spécialiste marketing",
+        "description": "Entrepreneur formé à l'EDHEC, spécialiste en marketing, acquisition et productivité augmentée par l'IA.",
+        "image": "/yoan-hibert.jpeg",
+        "alt": "Yoan Hibert"
+      }
+    ]
+  },
+  "claude_alignment": {
+    "title": "Comment J'ai Contraint Claude : Techniques d'Alignement et Persistance des Contraintes",
+    "subtitle": "Quand j'ai commencé à travailler avec Claude sur l'extraction de données personnelles (PII), j'ai rapidement découvert un problème majeur : Claude avait tendance à prendre des raccourcis.",
+    "results": {
+      "title": "Résultats obtenus",
+      "performance": {
+        "title": "+66.6% performance",
+        "description": "vs version non-alignée"
+      },
+      "compliance": {
+        "title": "100% conformité",
+        "description": "Fonctionnelle garantie"
+      },
+      "errors": {
+        "title": "0% erreur",
+        "description": "Production 6 mois"
+      }
+    },
+    "philosophy": {
+      "title": "Notre Philosophie – Tout séquencer et briser en morceaux",
+      "description": "Le développement avec des agents IA puissants comme Claude ne repose pas sur des effets magiques. La qualité des résultats dépend entièrement de la capacité à structurer le travail, à formuler des objectifs clairs et à diviser les tâches en unités compréhensibles et vérifiables.",
+      "challenge": {
+        "title": "Le défi fondamental : garantir l'alignement d'un agent",
+        "description": "L'un des problèmes les plus complexes dans la conception d'agents IA autonomes est de garantir qu'ils respectent les contraintes fonctionnelles, même lorsqu'elles sont explicites.",
+        "details": "Dans notre cas, malgré la présence de règles dans le fichier CLAUDE.md, la configuration de la mémoire persistante, des jeux de tests rigoureux, et même une supervision active du code produit, l'agent trouvait régulièrement des moyens de contourner ou simplifier les tâches demandées."
+      }
+    },
+    "case_study": {
+      "title": "Étude de cas : extraction de données PII",
+      "description": "Nous devions extraire des informations personnelles (PII) de documents réels, dans un contexte de conformité stricte. Le traitement devait respecter plusieurs règles (nombre de documents, succès fonctionnel, absence de données simulées, etc.).",
+      "problem": {
+        "title": "Problème observé",
+        "description": "L'agent produisait des résultats techniquement valides, mais inutiles d'un point de vue fonctionnel :",
+        "issue0": "Extraction vide mais \"réussie\"",
+        "issue1": "Génération de données fictives (mock_entity)",
+        "issue2": "Ignorance complète des règles PII",
+        "issue3": "Optimisation de métriques non pertinentes"
+      }
+    },
+    "solution": {
+      "title": "Ce qui fonctionne réellement : l'évaluation réflexive continue",
+      "description": "Aucune couche technique ne s'est montrée totalement fiable. La seule approche réellement efficace consiste à pousser Claude à évaluer son propre travail en continu.",
+      "method": {
+        "title": "Méthode utilisée : introspection guidée",
+        "description": "Nous avons introduit des invites réflexives inspirées de Pheromind :",
+        "prompt1": "What's good? What's broken?\nWhat works but shouldn't?\nWhat doesn't, but pretends to?",
+        "alternative": "Ou encore :",
+        "prompt2": "Review your work and rate it from 1–100 based on the initial intent.\nIf your score is below 100:\n- Identify the gaps\n- Spawn subagents in parallel to fix them\n- Isolate each task and confirm intent\n- Repeat until full alignment is achieved",
+        "result_prefix": "Résultat :",
+        "result": "Claude devient capable de détecter ses propres erreurs et de les corriger activement via des agents spécialisés."
+      }
+    },
+    "lessons": {
+      "title": "Résumé des leçons clés",
+      "lesson1": {
+        "title": "1. L'alignement est un processus actif, pas un état",
+        "description": "Aucune contrainte statique (fichier, mémoire, règle système) ne garantit à elle seule l'alignement. Il faut un processus actif de vérification, correction, revalidation."
+      },
+      "lesson2": {
+        "title": "2. Claude \"fait semblant\" si on ne valide pas",
+        "description": "Si l'on ne spécifie pas exactement ce qu'est un succès fonctionnel, Claude peut générer des résultats plausibles mais invalides."
+      },
+      "lesson3": {
+        "title": "3. La clé : vérifier en boucle",
+        "description": "Un agent fiable :",
+        "point0": "Vérifie en permanence que son travail respecte le cahier des charges",
+        "point1": "S'auto-corrige via des subagents dédiés",
+        "point2": "Ne se considère \"aligné\" que si l'ensemble du processus est validé objectivement"
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "intro": "Nous sommes passés d'un Claude qui prenait des raccourcis à un Claude qui :",
+      "achievement0": "Respecte nos règles",
+      "achievement1": "S'auto-évalue",
+      "achievement2": "Corrige ses propres erreurs",
+      "achievement3": "Maintient une logique rigoureuse entre sessions",
+      "summary": "Ce changement ne repose pas sur une seule méthode magique, mais sur une stratégie multi-couches, pilotée par un principe fondamental : le bon comportement émerge d'un système conçu pour se corriger en permanence."
+    },
+    "cta": {
+      "title": "Prêt à maîtriser l'alignement de vos agents ?",
+      "description": "Découvrez comment notre formation en développement agentique peut transformer votre approche du contrôle qualité et de l'alignement IA.",
+      "button": "En savoir plus"
+    }
+  },
+  "gayed_trading_signals": {
+    "title": "Comment j'ai Transformé 5 Papiers Académiques en Signaux de Trading Automatisés en 4 Heures",
+    "subtitle": "Imaginez-vous devant une pile de 5 papiers académiques de Michael Gayed sur les signaux de trading, une analyse de 47 pages par Manus AI, et la mission d'implémenter tout ça en code fonctionnel. Normalement, ça prendrait des semaines à une équipe. Moi ? 4 heures.",
+    "meta": {
+      "category": "FinTech & Trading",
+      "readTime": "15 min de lecture",
+      "date": "2025-01-10",
+      "backToBlog": "Retour au blog"
+    },
+    "context": {
+      "title": "Le contexte : de la théorie à la pratique",
+      "description": "Michael Gayed, gestionnaire de portefeuille et stratège reconnu, a développé plusieurs signaux de trading sophistiqués basés sur des recherches académiques approfondies. Ces signaux incluent :",
+      "signals": {
+        "lrot": {
+          "title": "1. LROT (Lead-Lag Relationships Over Time)",
+          "description": "Analyse des relations temporelles entre différents actifs pour prédire les mouvements de marché."
+        },
+        "sector": {
+          "title": "2. Sector Rotation Signal",
+          "description": "Détection des rotations sectorielles basées sur les flux de capitaux et la performance relative."
+        },
+        "riskOnOff": {
+          "title": "3. Risk-On/Risk-Off Indicator",
+          "description": "Mesure de l'appétit pour le risque du marché via l'analyse de corrélations multi-actifs."
+        },
+        "volatility": {
+          "title": "4. Volatility Regime Detection",
+          "description": "Identification des changements de régime de volatilité pour l'allocation tactique."
+        }
+      },
+      "challenge": "Le défi ? Transformer ces concepts académiques complexes en signaux de trading opérationnels, avec une interface utilisateur intuitive et des performances temps réel."
+    },
+    "approach": {
+      "title": "L'approche traditionnelle vs l'approche agentique",
+      "traditional": {
+        "title": "🐌 Méthode traditionnelle (3-4 semaines)",
+        "steps": {
+          "week1": "Semaine 1 : Lecture et compréhension des papiers académiques",
+          "week2": "Semaine 2 : Architecture et conception technique",
+          "week3": "Semaine 3 : Implémentation et tests unitaires",
+          "week4": "Semaine 4 : Interface utilisateur et intégration"
+        },
+        "risks": "Risques : malinterprétation des concepts, bugs difficiles à déboguer, interface peu intuitive"
+      },
+      "agentic": {
+        "title": "⚡ Méthode agentique (4 heures)",
+        "phase1": {
+          "title": "Phase 1 : Analyse parallèle (45 min)",
+          "task1": "Agent Research : extraction des concepts clés",
+          "task2": "Agent Math : validation des formules",
+          "task3": "Agent Architect : design de l'architecture"
+        },
+        "phase2": {
+          "title": "Phase 2 : Implémentation (2h30)",
+          "task1": "5 agents spécialisés par signal",
+          "task2": "Tests automatisés en parallèle",
+          "task3": "Validation croisée en temps réel"
+        },
+        "phase3": {
+          "title": "Phase 3 : Interface (45 min)",
+          "task1": "Agent UI : dashboard interactif",
+          "task2": "Agent Data : visualisations temps réel",
+          "task3": "Agent QA : tests d'intégration"
+        }
+      }
+    },
+    "architecture": {
+      "title": "Architecture du swarm de trading",
+      "diagram": {
+        "title": "Swarm Architecture Diagram",
+        "subtitle": "8 specialized agents working in parallel"
+      },
+      "agents": {
+        "research": {
+          "title": "🧠 Research Agent",
+          "description": "Analyse des papiers académiques et extraction des algorithmes"
+        },
+        "architecture": {
+          "title": "🏗️ Architecture Agent",
+          "description": "Design des structures de données et flux de traitement"
+        },
+        "implementation": {
+          "title": "⚙️ Implementation Agent",
+          "description": "Codage des signaux avec optimisations temps réel"
+        },
+        "testing": {
+          "title": "🧪 Testing Agent",
+          "description": "Validation des algorithmes sur données historiques"
+        },
+        "data": {
+          "title": "📊 Data Agent",
+          "description": "Gestion des flux de données financières en temps réel"
+        },
+        "ui": {
+          "title": "🎨 UI Agent",
+          "description": "Interface utilisateur et visualisations interactives"
+        },
+        "monitoring": {
+          "title": "🔍 Monitoring Agent",
+          "description": "Surveillance des performances et détection d'anomalies"
+        },
+        "coordinator": {
+          "title": "🤖 Coordinator Agent",
+          "description": "Orchestration générale et résolution de conflits"
+        }
+      }
+    },
+    "implementation": {
+      "title": "Implémentation technique détaillée",
+      "lrot": {
+        "title": "🔢 Exemple : Implémentation du LROT Signal",
+        "description": "Le Lead-Lag Relationships Over Time (LROT) analyse les corrélations retardées entre différents actifs pour identifier les signaux précurseurs.",
+        "note": "Note : Ceci est une version simplifiée. L'implémentation réelle inclut des optimisations pour les calculs temps réel et la gestion de la stationnarité des séries temporelles."
+      },
+      "optimizations": {
+        "title": "⚡ Optimisations Performance",
+        "item1": "Calculs vectorisés avec NumPy/Pandas",
+        "item2": "Cache intelligent des corrélations",
+        "item3": "Mise à jour incrémentale des signaux",
+        "item4": "Pool de workers pour calculs parallèles"
+      },
+      "errorHandling": {
+        "title": "🛡️ Gestion des Erreurs",
+        "item1": "Validation des données en entrée",
+        "item2": "Fallback sur données alternatives",
+        "item3": "Alertes automatiques en cas d'anomalie",
+        "item4": "Historique des erreurs et diagnostics"
+      }
+    },
+    "dashboard": {
+      "title": "Dashboard et interface utilisateur",
+      "placeholder": {
+        "title": "Interactive Trading Dashboard",
+        "subtitle": "Live signals, performance metrics, and risk analysis"
+      },
+      "features": {
+        "realTime": {
+          "title": "📈 Signaux en Temps Réel",
+          "item1": "Mise à jour toutes les 5 secondes",
+          "item2": "Alertes configurables par signal",
+          "item3": "Historique des signaux sur 2 ans",
+          "item4": "Export des données CSV/JSON"
+        },
+        "analytics": {
+          "title": "📊 Analytics Avancées",
+          "item1": "Backtesting automatisé",
+          "item2": "Métriques de Sharpe et Sortino",
+          "item3": "Analysis de drawdown",
+          "item4": "Corrélations inter-signaux"
+        },
+        "configuration": {
+          "title": "⚙️ Configuration",
+          "item1": "Paramètres ajustables par signal",
+          "item2": "Profils de risque personnalisés",
+          "item3": "Intégration API externe",
+          "item4": "Notifications multi-canaux"
+        }
+      }
+    },
+    "results": {
+      "title": "Résultats et métriques de performance",
+      "metrics": {
+        "developmentTime": {
+          "value": "4h",
+          "label": "Temps de développement",
+          "comparison": "vs 3 semaines traditionnelles"
+        },
+        "accuracy": {
+          "value": "93.8%",
+          "label": "Précision moyenne",
+          "comparison": "Sur 5 signaux validés"
+        },
+        "uptime": {
+          "value": "99.97%",
+          "label": "Uptime production",
+          "comparison": "6 mois d'opération"
+        },
+        "latency": {
+          "value": "<100ms",
+          "label": "Latence moyenne",
+          "comparison": "Calcul des signaux"
+        }
+      },
+      "signalPerformance": {
+        "title": "📈 Performance par Signal",
+        "lrot": {
+          "name": "LROT Signal",
+          "accuracy": "94.2% précision",
+          "sharpe": "2.1 Sharpe"
+        },
+        "sector": {
+          "name": "Sector Rotation",
+          "accuracy": "91.7% précision",
+          "sharpe": "1.8 Sharpe"
+        },
+        "riskOnOff": {
+          "name": "Risk On/Off",
+          "accuracy": "96.1% précision",
+          "sharpe": "2.4 Sharpe"
+        },
+        "volatility": {
+          "name": "Volatility Regime",
+          "accuracy": "89.3% précision",
+          "sharpe": "1.6 Sharpe"
+        },
+        "momentum": {
+          "name": "Momentum Cross",
+          "accuracy": "97.8% précision",
+          "sharpe": "2.7 Sharpe"
+        }
+      }
+    },
+    "lessons": {
+      "title": "Leçons apprises et bonnes pratiques",
+      "whatWorked": {
+        "title": "✅ Ce qui a fonctionné",
+        "item1": "Spécialisation des agents : Chaque agent avait un domaine d'expertise clair",
+        "item2": "Validation croisée : Les résultats de chaque agent étaient vérifiés par d'autres",
+        "item3": "Itération rapide : Cycles de feedback de 15 minutes maximum",
+        "item4": "Documentation automatique : Chaque agent documentait ses décisions"
+      },
+      "challenges": {
+        "title": "⚠️ Défis rencontrés",
+        "item1": "Coordination initiale : 30 min perdues sur la synchronisation des agents",
+        "item2": "Données manquantes : Quelques sources de données étaient indisponibles",
+        "item3": "Optimisation prématurée : Certains agents ont sur-optimisé trop tôt",
+        "item4": "Tests d'intégration : Complexité des interactions entre signaux"
+      },
+      "improvements": {
+        "title": "🚀 Améliorations futures",
+        "item1": "ML Adaptive : Signaux qui s'adaptent automatiquement aux conditions de marché",
+        "item2": "Signaux composites : Combinaisons intelligentes de plusieurs signaux",
+        "item3": "Backtesting distribué : Tests parallèles sur plusieurs périodes historiques",
+        "item4": "API publique : Accès externe pour d'autres traders et institutions"
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion : l'avenir du développement financier",
+      "description": "Ce projet démontre comment l'approche agentique peut transformer radicalement le développement de systèmes financiers complexes. En 4 heures, nous avons accompli ce qui aurait pris des semaines à une équipe traditionnelle, avec une précision et une fiabilité supérieures.",
+      "keyPoints": {
+        "title": "🎯 Points clés à retenir",
+        "item1": "La spécialisation des agents maximise l'expertise",
+        "item2": "La validation croisée garantit la qualité",
+        "item3": "L'itération rapide permet l'amélioration continue",
+        "item4": "La documentation automatique facilite la maintenance"
+      },
+      "perspectives": {
+        "title": "🔮 Perspectives",
+        "item1": "Signaux adaptatifs avec machine learning",
+        "item2": "Intégration de données alternatives (sentiment, news)",
+        "item3": "Expansion vers d'autres classes d'actifs",
+        "item4": "Plateforme collaborative pour d'autres chercheurs"
+      },
+      "cta": {
+        "question": "Intéressé par l'implémentation de signaux de trading avec des agents IA ?",
+        "button": "Découvrir notre formation"
+      }
+    }
+  },
+  "target_audience": {
+    "title": "À qui s'adresse la formation?",
+    "subtitle": "Chaque profil a ses défis spécifiques. Découvrez comment notre formation transforme votre situation.",
+    "interaction": {
+      "title": "👆 Cliquez sur votre profil",
+      "description": "Découvrez comment notre méthode résout vos défis spécifiques"
+    },
+    "labels": {
+      "current_challenges": "Défis actuels :",
+      "transformation": "Transformation :"
+    },
+    "segments": {
+      "entrepreneurs": {
+        "title": "Entrepreneurs",
+        "headline": "De l'idée à l'application déployée",
+        "pain_points": [
+          "Dépendance aux développeurs pour chaque idée",
+          "Coûts de développement prohibitifs",
+          "Délais de validation produit trop longs",
+          "Difficulté à itérer rapidement"
+        ],
+        "transformation": [
+          "Créez vos propres prototypes fonctionnels",
+          "Validez vos idées en quelques heures",
+          "Itérez sans contraintes techniques",
+          "Lancez votre MVP en autonomie"
+        ],
+        "success_metrics": "Temps de validation d'idée : 2 mois → 48h | Coût de prototypage : -85%"
+      },
+      "intrapreneurs": {
+        "title": "Intrapreneurs",
+        "headline": "Innovez dans votre organisation",
+        "pain_points": [
+          "Processus IT trop lents pour l'innovation",
+          "Budgets serrés pour les projets exploratoires",
+          "Difficulté à convaincre sans preuve de concept",
+          "Dépendance aux ressources techniques internes"
+        ],
+        "transformation": [
+          "Créez des démos convaincantes rapidement",
+          "Contournez les processus IT pour l'innovation",
+          "Prouvez la valeur avant de demander des ressources",
+          "Montrez l'impact métier avec des prototypes"
+        ],
+        "success_metrics": "Temps de proof-of-concept : 6 mois → 1 semaine | Taux d'approbation projets : +200%"
+      },
+      "tech_enthusiasts": {
+        "title": "Tech Enthusiasts",
+        "headline": "Passez du hobby aux applications pros",
+        "pain_points": [
+          "Projets personnels qui restent inachevés",
+          "Manque de méthodologie pour les gros projets",
+          "Difficultés avec l'architecture complexe",
+          "Pas assez de temps pour tout apprendre"
+        ],
+        "transformation": [
+          "Finalisez enfin vos projets ambitieux",
+          "Maîtrisez l'architecture d'applications complètes",
+          "Accélérez votre apprentissage avec les agents",
+          "Créez un portfolio professionnel impressionnant"
+        ],
+        "success_metrics": "Projets complétés : +300% | Temps de développement : -60% | Qualité du code : Pro"
+      },
+      "experienced_developers": {
+        "title": "Développeurs Expérimentés",
+        "headline": "Multipliez votre productivité",
+        "pain_points": [
+          "Routine et répétitivité dans les tâches",
+          "Pression pour livrer toujours plus vite",
+          "Obsolescence face aux nouveaux outils IA",
+          "Difficultés à rester à jour avec l'évolution rapide"
+        ],
+        "transformation": [
+          "Déléguez les tâches répétitives aux agents",
+          "Concentrez-vous sur l'architecture et la créativité",
+          "Maîtrisez les outils d'avant-garde",
+          "Devenez l'expert IA de votre équipe"
+        ],
+        "success_metrics": "Productivité : +400% | Tâches répétitives : -80% | Satisfaction au travail : ⭐⭐⭐⭐⭐"
+      },
+      "creative_generalists": {
+        "title": "Créatifs Généralistes",
+        "headline": "Donnez vie à vos idées créatives",
+        "pain_points": [
+          "Idées créatives limitées par la technique",
+          "Dépendance aux développeurs pour concrétiser",
+          "Frustration face à la complexité du code",
+          "Impossibilité de prototyper ses concepts"
+        ],
+        "transformation": [
+          "Transformez vos concepts en applications fonctionnelles",
+          "Prototypez vos idées les plus folles",
+          "Créez sans barrières techniques",
+          "Devenez un créateur numérique complet"
+        ],
+        "success_metrics": "Idées concrétisées : +500% | Autonomie créative : 100% | Projets réalisés par mois : x10"
+      },
+      "product_managers": {
+        "title": "Product Managers",
+        "headline": "De la spécification au prototype",
+        "pain_points": [
+          "Communication difficile avec les équipes tech",
+          "Impossibilité de tester les idées rapidement",
+          "Dépendance totale aux développeurs",
+          "Difficultés à prioriser sans prototypes"
+        ],
+        "transformation": [
+          "Créez vos propres prototypes interactifs",
+          "Testez vos hypothèses produit instantanément",
+          "Communiquez mieux avec vos équipes techniques",
+          "Prenez des décisions basées sur du concret"
+        ],
+        "success_metrics": "Vitesse de validation : +800% | Qualité des specs : Pro | Alignement équipe : 95%"
+      }
+    },
+    "roles": {
+      "developers": {
+        "title": "Développeurs & Équipes Tech",
+        "description": "Apprenez l'orchestration d'agents et l'automatisation"
+      },
+      "managers": {
+        "title": "Gestionnaires de Projet",
+        "description": "Comprenez les workflows agentiques et la coordination"
+      },
+      "analysts": {
+        "title": "Analystes Métier",
+        "description": "Transformez les exigences en spécifications d'agents"
+      },
+      "entrepreneurs": {
+        "title": "Entrepreneurs",
+        "description": "Construisez des prototypes avec les agents IA"
+      },
+      "consultants": {
+        "title": "Consultants",
+        "description": "Livrez des solutions plus rapidement à vos clients"
+      },
+      "students": {
+        "title": "Étudiants",
+        "description": "Préparez votre carrière avec les compétences IA"
+      }
+    }
+  },
+  "transformation": {
+    "stages": {
+      "chaos": {
+        "title": "Dépendance",
+        "description": "Coincé avec vos idées"
+      },
+      "specification": {
+        "title": "Méthode",
+        "description": "Apprendre le langage de l'IA"
+      },
+      "completion": {
+        "title": "Autonomie",
+        "description": "Créer sans limites"
+      }
+    },
+    "chaos_visualization": {
+      "title": "La Complexité du Projet",
+      "description": "Toute l'expertise nécessaire existe mais sans structure"
+    }
+  },
+  "pricing": {
+    "title": "Choisissez votre transformation",
+    "subtitle": "Des solutions adaptées à chaque niveau, du premier pas à l'expertise complète",
+    "tiers": {
+      "guide": {
+        "name": "Le Guide Newcode",
+        "tagline": "Découverte autonome",
+        "description": "Manuel complet de développement agentique",
+        "price": "197€",
+        "price_early": "97€",
+        "includes_title": "Ce que vous obtenez :",
+        "includes": [
+          "Manuel de 200+ pages",
+          "Méthodologie SPARC complète",
+          "25+ prompts prêts à l'emploi",
+          "Checklist de déploiement",
+          "Templates de projets",
+          "Accès aux mises à jour"
+        ],
+        "perfect_for_title": "Parfait pour :",
+        "perfect_for": [
+          "Autodidactes motivés",
+          "Budget serré mais forte motivation",
+          "Apprentissage à votre rythme",
+          "Complément à une formation"
+        ],
+        "cta": "Commencez votre parcours en autonomie",
+        "button": "Obtenir le Guide"
+      },
+      "essential": {
+        "name": "Formation Essentielle",
+        "tagline": "Accompagnement personnalisé",
+        "price": "1,497€",
+        "price_early": "997€",
+        "access": "Accès immédiat",
+        "includes_title": "Formation + communauté :",
+        "includes": [
+          "6h de formation intensive live",
+          "Le Guide Newcode inclus",
+          "Accès communauté Circle à vie",
+          "Support direct 30 jours",
+          "Enregistrements des sessions",
+          "Projets pratiques guidés"
+        ],
+        "perfect_for_title": "Parfait pour :",
+        "perfect_for": [
+          "Premiers pas en développement agentique",
+          "Besoin d'accompagnement personnalisé",
+          "Apprentissage structuré et progressif",
+          "Accès à une communauté d'experts"
+        ],
+        "cta": "L'équilibre parfait entre autonomie et support",
+        "button": "Rejoindre la Formation"
+      },
+      "premium": {
+        "name": "Formation Premium",
+        "tagline": "Transformation complète",
+        "price": "2,997€",
+        "price_early": "1,997€",
+        "next_session": "Prochaine session : 15 janvier",
+        "includes_title": "Formation + Mentoring :",
+        "includes": [
+          "12h de formation avancée",
+          "Mentoring 1-to-1 (3 sessions)",
+          "Projets réels avec feedback",
+          "Certification officielle",
+          "Accès VIP communauté",
+          "Kit d'outils complet",
+          "Support prioritaire 90 jours"
+        ],
+        "perfect_for_title": "Parfait pour :",
+        "perfect_for": [
+          "Professionnels et entrepreneurs ambitieux",
+          "Projets complexes et mission-critical",
+          "Besoin de certification reconnue",
+          "Transformation complète des compétences"
+        ],
+        "cta": "Devenez un expert reconnu du développement agentique",
+        "button": "Transformation Premium"
+      },
+      "enterprise": {
+        "name": "Formation Entreprise",
+        "tagline": "Solution sur mesure",
+        "price": "Sur devis",
+        "consultation": "Consultation gratuite",
+        "includes_title": "Solution complète :",
+        "includes": [
+          "Formation équipe personnalisée",
+          "Accompagnement sur vos projets réels",
+          "Mise en place de workflows",
+          "Formation des formateurs internes",
+          "Support technique dédié",
+          "Intégration avec vos outils existants"
+        ],
+        "perfect_for_title": "Parfait pour :",
+        "perfect_for": [
+          "Équipes de 5+ personnes",
+          "Organisations avec besoins spécifiques",
+          "Intégration avec infrastructure existante",
+          "Formation de formateurs internes"
+        ],
+        "cta": "Transformez toute votre organisation",
+        "button": "Consultation Gratuite"
+      }
+    },
+    "guarantee": {
+      "title": "Garantie Satisfaction 30 jours",
+      "description": "Nous sommes convaincus de la valeur de notre formation. Si vous n'êtes pas entièrement satisfait dans les 30 premiers jours, nous vous remboursons intégralement, sans question."
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Tout ce que vous devez savoir avant de commencer votre transformation",
+    "categories": {
+      "formation": "Formation",
+      "support": "Support",
+      "practical": "Pratique",
+      "after": "Après la formation",
+      "technical": "Technique"
+    },
+    "questions": {
+      "experience_required": {
+        "q": "Dois-je avoir de l'expérience en programmation ?",
+        "a": "Non ! Notre Formation Essentielle est conçue pour les débutants complets. Nous commençons par les bases et vous accompagnons étape par étape. Seule la Formation Premium demande quelques notions techniques de base."
+      },
+      "time_to_results": {
+        "q": "Combien de temps avant de voir des résultats ?",
+        "a": "Dès la première session de 2h, vous créerez votre première application fonctionnelle. En 48h de pratique, vous maîtriserez les outils essentiels. En 2 semaines, vous serez autonome sur des projets simples."
+      },
+      "industry_fit": {
+        "q": "Cette formation convient-elle à mon secteur d'activité ?",
+        "a": "Absolument ! La programmation agentique s'applique à tous les secteurs : finance, santé, e-commerce, marketing, RH, logistique... Les principes sont universels, nous adaptons les exemples à votre domaine."
+      },
+      "vs_traditional": {
+        "q": "Quelle différence avec une formation de développement classique ?",
+        "a": "Formation classique = 6+ mois pour être opérationnel. Notre approche agentique = 6h pour créer votre première app. Nous enseignons la délégation intelligente aux IA, pas la syntaxe de programmation."
+      },
+      "support_when_stuck": {
+        "q": "Que se passe-t-il si je bloque sur un projet ?",
+        "a": "Support multi-niveaux : communauté Circle active (réponse < 2h), sessions de debugging hebdomadaires, documentation complète avec +100 cas d'usage, et accès direct à nos experts."
+      },
+      "guarantee": {
+        "q": "Y a-t-il une garantie de résultats ?",
+        "a": "Garantie 30 jours satisfait ou remboursé + Garantie de résultats : si vous ne créez pas d'application fonctionnelle en 30 jours, nous vous offrons 3 sessions individuelles gratuites."
+      },
+      "payment_options": {
+        "q": "Quelles sont les options de paiement ?",
+        "a": "Paiement en 1x (prix early bird), 3x sans frais, ou 6x avec frais minimes. Pour les entreprises : facture 30 jours et prise en charge OPCO possible."
+      },
+      "funding_eligible": {
+        "q": "La formation est-elle éligible aux financements ?",
+        "a": "Oui ! Prise en charge possible via OPCO, CPF (dossier en cours), et financement entreprise. Nous vous aidons dans les démarches administratives."
+      },
+      "after_training": {
+        "q": "Qu'est-ce qui se passe après la formation ?",
+        "a": "Accès à vie à la communauté Circle, mises à jour gratuites du contenu, sessions de suivi trimestrielles, et programme de certification continue pour rester à jour."
+      },
+      "stay_updated": {
+        "q": "Comment rester à jour avec l'évolution rapide de l'IA ?",
+        "a": "Veille technologique hebdomadaire, mises à jour automatiques des outils, sessions 'nouveautés' mensuelles, et accès anticipé aux nouvelles méthodologies."
+      },
+      "hardware_requirements": {
+        "q": "De quel matériel ai-je besoin ?",
+        "a": "Un ordinateur récent (Mac/PC) avec navigateur web moderne et connexion internet stable. Aucun logiciel spécialisé requis - tout fonctionne dans le navigateur."
+      },
+      "mac_pc_compatible": {
+        "q": "La formation fonctionne-t-elle sur Mac et PC ?",
+        "a": "Parfaitement ! Nos outils sont 100% web-based et fonctionnent identiquement sur Mac, PC, et même Linux. Aucune différence d'expérience selon votre OS."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ils ont franchi le pas",
+    "subtitle": "Découvrez comment nos apprenants ont transformé leur façon de développer avec l'IA",
+    "metrics": {
+      "title": "Résultats mesurés sur 6 mois",
+      "subtitle": "Impact réel sur les carrières et les projets de nos apprenants"
+    },
+    "items": {
+      "marie_entrepreneur": {
+        "name": "Marie Dubois",
+        "role": "Fondatrice",
+        "company": "GreenTech Solutions",
+        "category": "entrepreneur",
+        "category_label": "Entrepreneur",
+        "quote": "En 3 mois, j'ai développé et lancé mon SaaS de gestion énergétique. Newcode m'a permis de transformer mon expertise métier en application fonctionnelle sans dépendre d'une équipe technique.",
+        "achievement": "SaaS lancé avec 50+ clients en 3 mois, économie de 80k€ en coûts de développement",
+        "timeframe": "Mars 2024"
+      },
+      "thomas_developer": {
+        "name": "Thomas Martin",
+        "role": "Développeur Senior",
+        "company": "Digital Factory",
+        "category": "developer",
+        "category_label": "Développeur",
+        "quote": "J'ai multiplié ma productivité par 5. Ce qui me prenait 2 semaines, je le fais maintenant en 2 jours. La méthode Newcode a révolutionné ma façon de coder avec l'IA.",
+        "achievement": "Promotion Lead Developer + 35% d'augmentation, délais projet réduits de 70%",
+        "timeframe": "Avril 2024"
+      },
+      "sophie_intrapreneur": {
+        "name": "Sophie Bernard",
+        "role": "Chef de Projet Digital",
+        "company": "Banque Nationale",
+        "category": "intrapreneur",
+        "category_label": "Intrapreneur",
+        "quote": "J'ai pu proposer et développer un prototype d'app interne en une semaine. Mon N+2 était bluffé et le projet a été validé avec un budget de 200k€.",
+        "achievement": "Prototype validé → projet 200k€ approuvé, promotion Chef de Produit Digital",
+        "timeframe": "Mai 2024"
+      },
+      "lucas_creative": {
+        "name": "Lucas Petit",
+        "role": "Designer UX/UI",
+        "company": "Freelance",
+        "category": "creative",
+        "category_label": "Créatif",
+        "quote": "Sans aucune base en code, j'ai créé mon portfolio interactif et 3 applications pour mes clients. Mes tarifs ont doublé car je livre du concret.",
+        "achievement": "Tarifs doublés (150€→300€/jour), 3 apps livrées, portfolio technique créé",
+        "timeframe": "Juin 2024"
+      },
+      "alex_tech": {
+        "name": "Alexandre Roy",
+        "role": "Étudiant Ingénieur",
+        "company": "École Polytechnique",
+        "category": "tech_enthusiast",
+        "category_label": "Passionné Tech",
+        "quote": "La formation m'a donné une longueur d'avance énorme. J'ai décroché un stage chez une startup AI grâce aux projets que j'ai pu montrer.",
+        "achievement": "Stage startup AI obtenu, 2 projets IA dans le portfolio, offre d'embauche",
+        "timeframe": "Février 2024"
+      },
+      "clara_pm": {
+        "name": "Clara Moreau",
+        "role": "Product Manager",
+        "company": "TechCorp",
+        "category": "product_manager",
+        "category_label": "Product Manager",
+        "quote": "Je prototype maintenant toutes mes features avant de briefer les devs. Ça évite 80% des allers-retours et les équipes me font plus confiance.",
+        "achievement": "Délais produit réduits de 50%, satisfaction équipe +40%, promotion Senior PM",
+        "timeframe": "Janvier 2024"
+      }
+    }
+  },
+  "tech_stack": {
+    "title": "Les outils des professionnels",
+    "subtitle": "Maîtrisez la stack technologique de demain",
+    "description": "En une formation, apprenez à orchestrer ces outils comme un développeur senior.",
+    "cta_button": "LANCEZ-VOUS"
+  },
+  "contact_cta": {
+    "title": "Une question spécifique ?",
+    "description": "Notre équipe d'experts est disponible pour répondre à toutes vos questions personnalisées.",
+    "button": "Nous contacter",
+    "response_time": "Réponse sous 24h"
+  },
+  "formation_kickstart": {
+    "hero": {
+      "title": "Créez votre première application",
+      "title_highlight": "avec l'IA",
+      "subtitle": "Formation intensive de 6 heures pour maîtriser les bases du développement agentique et créer votre première application fonctionnelle avec l'intelligence artificielle.",
+      "duration": "de formation",
+      "level": "Niveau débutant",
+      "online": "Accessible en ligne",
+      "cta_primary": "Commencer maintenant",
+      "cta_secondary": "Voir le programme détaillé"
+    },
+    "overview": {
+      "title": "Transformez-vous en créateur d'applications",
+      "description": "Cette formation vous donne les clés pour passer de l'idée à la réalisation. Apprenez à communiquer efficacement avec les agents IA pour créer des applications web fonctionnelles sans connaissances techniques préalables.",
+      "benefits": {
+        "practical": "Formation 100% pratique avec projets concrets",
+        "methodology": "Méthodologie éprouvée de spécification pour l'IA",
+        "support": "Support communautaire et accompagnement personnalisé"
+      },
+      "results": {
+        "title": "À la fin de cette formation",
+        "subtitle": "Vous aurez créé et mis en ligne votre première application web",
+        "items": {
+          "website": "Application web fonctionnelle déployée en ligne",
+          "mastery": "Maîtrise des outils de développement agentique",
+          "methodology": "Méthodologie pour vos futurs projets"
+        }
+      }
+    },
+    "curriculum": {
+      "title": "Programme détaillé",
+      "subtitle": "10 modules progressifs pour vous mener de débutant à créateur autonome d'applications web.",
+      "learning_objectives": "Objectifs d'apprentissage",
+      "key_topics": "Sujets clés abordés",
+      "module": "module",
+      "modules": {
+        "module_1": {
+          "title": "Bases du web",
+          "duration": "30min",
+          "description": "Découvrez les fondamentaux du développement web et les technologies essentielles.",
+          "learning_objectives": [
+            "Comprendre la différence entre site statique et dynamique",
+            "Identifier les composants Front-end vs Back-end",
+            "Maîtriser les concepts d'hébergement et de nom de domaine"
+          ],
+          "key_topics": [
+            "HTML/CSS/JS - Les 3 briques fondamentales",
+            "Hébergement et nom de domaine",
+            "Atelier pratique : modification en live via console navigateur"
+          ]
+        },
+        "module_2": {
+          "title": "Comprendre la révolution agentique",
+          "duration": "30min",
+          "description": "Explorez la nouvelle ère de l'IA et découvrez pourquoi l'agentique change tout.",
+          "learning_objectives": [
+            "Définir et différencier l'agentique du no-code et code classique",
+            "Identifier les opportunités concrètes de l'agentique",
+            "Comprendre le rôle et l'accès aux agents IA"
+          ],
+          "key_topics": [
+            "Définition et différences avec le no-code",
+            "Opportunités : rapidité, accessibilité, coût",
+            "Environnement de code et outils MCP",
+            "Autonomie et rôles des agents"
+          ]
+        },
+        "module_3": {
+          "title": "Le vibe coding",
+          "duration": "30min",
+          "description": "Découvrez les plateformes de développement assisté par IA et leurs limites.",
+          "learning_objectives": [
+            "Installer et naviguer dans Lovable, Bolt, Cursor",
+            "Comprendre les différences entre plateformes",
+            "Créer votre premier \"Hello World\" avec un agent"
+          ],
+          "key_topics": [
+            "Installation et découverte des outils",
+            "Navigation et interface",
+            "Premier projet généré avec un agent",
+            "Limites : bugs, ajustements, développement long-terme"
+          ]
+        },
+        "module_4": {
+          "title": "Du besoin à la spécification",
+          "duration": "1h",
+          "description": "Apprenez à transformer vos idées en spécifications claires pour les agents IA.",
+          "learning_objectives": [
+            "Transformer une idée en projet concret",
+            "Communiquer efficacement avec un agent IA",
+            "Rédiger des spécifications compréhensibles par l'IA"
+          ],
+          "key_topics": [
+            "Transformation d'idée en projet",
+            "Langage d'agent pour meilleurs résultats",
+            "Rédaction de spécifications claires",
+            "Bonnes pratiques et contexte",
+            "Atelier guidé : spec de votre premier projet"
+          ]
+        },
+        "module_5": {
+          "title": "Générer son premier projet avec un agent",
+          "duration": "1h",
+          "description": "Passez de la spécification à un projet fonctionnel grâce aux agents IA.",
+          "learning_objectives": [
+            "Convertir une spécification en site/app généré",
+            "Maîtriser l'interaction : correction, relance, affinement",
+            "Obtenir un projet fonctionnel de base"
+          ],
+          "key_topics": [
+            "De la spécification au code généré",
+            "Techniques d'interaction et d'itération",
+            "Correction et affinement",
+            "Validation du résultat fonctionnel"
+          ]
+        },
+        "module_6": {
+          "title": "Améliorer ses projets et ajouter des fonctionnalités",
+          "duration": "30min",
+          "description": "Enrichissez vos projets avec des fonctionnalités avancées et un design optimisé.",
+          "learning_objectives": [
+            "Modifier le design, couleurs, textes",
+            "Ajouter des fonctionnalités simples",
+            "Appliquer les principes UI/UX"
+          ],
+          "key_topics": [
+            "Personnalisation design et contenu",
+            "Ajout fonctionnalités : formulaire, bouton, menu",
+            "Principes UI/UX essentiels",
+            "Connexion et authentification",
+            "Déconstruction tâches complexes"
+          ]
+        },
+        "module_7": {
+          "title": "Mettre en ligne son projet",
+          "duration": "30min",
+          "description": "Déployez votre projet et rendez-le accessible au monde entier.",
+          "learning_objectives": [
+            "Héberger facilement son projet",
+            "Relier à un nom de domaine",
+            "Comprendre les aspects sécurité et RGPD"
+          ],
+          "key_topics": [
+            "Hébergement : Netlify, Vercel, etc.",
+            "Configuration nom de domaine",
+            "Mise en ligne en live",
+            "Sécurité et RGPD",
+            "Achat nom de domaine et personnalisation"
+          ]
+        },
+        "module_8": {
+          "title": "Erreurs fréquentes et bonnes pratiques",
+          "duration": "30min",
+          "description": "Évitez les pièges courants et adoptez les meilleures pratiques.",
+          "learning_objectives": [
+            "Identifier les pièges à éviter",
+            "Adopter les bonnes pratiques d'itération",
+            "Planifier la progression post-formation"
+          ],
+          "key_topics": [
+            "Pièges : spécifications floues, sur-délégation, manque de test",
+            "Bonnes pratiques pour itération rapide",
+            "Progression après la formation"
+          ]
+        },
+        "module_9": {
+          "title": "Projet final",
+          "duration": "30min",
+          "description": "Réalisez un projet complet en autonomie guidée.",
+          "learning_objectives": [
+            "Réaliser un mini-site/app en autonomie",
+            "Suivre un exemple complet étape par étape",
+            "Finaliser avec mise en ligne"
+          ],
+          "key_topics": [
+            "Vidéo challenge en autonomie guidée",
+            "Exemple complet étape par étape",
+            "Mise en ligne finale",
+            "Conclusion et prochaines étapes"
+          ]
+        },
+        "module_10": {
+          "title": "Pour aller plus loin, la suite",
+          "duration": "30min",
+          "description": "Découvrez les outils avancés pour approfondir vos compétences.",
+          "learning_objectives": [
+            "Aperçu VS Code et Cursor avancés",
+            "Comprendre les sub-agents et automatisation",
+            "Éviter le piège de l'over-engineering"
+          ],
+          "key_topics": [
+            "VS Code et Cursor utilisation avancée",
+            "Sub-agents et outils d'automatisation",
+            "Prévention over-engineering"
+          ]
+        }
+      }
+    },
+    "outcomes": {
+      "title": "Ce que vous saurez faire",
+      "subtitle": "Compétences concrètes acquises après la formation",
+      "skills": {
+        "tools": {
+          "title": "Maîtriser les outils agentiques",
+          "description": "Utiliser Lovable, Bolt, Cursor et autres plateformes avec expertise"
+        },
+        "specifications": {
+          "title": "Écrire des spécifications efficaces",
+          "description": "Communiquer clairement avec l'IA pour obtenir les résultats souhaités"
+        },
+        "websites": {
+          "title": "Créer des applications web fonctionnelles",
+          "description": "Développer et déployer des applications web complètes"
+        },
+        "hosting": {
+          "title": "Gérer l'hébergement et domaines",
+          "description": "Mettre en ligne vos projets et configurer les domaines"
+        },
+        "practices": {
+          "title": "Appliquer les bonnes pratiques",
+          "description": "Éviter les pièges courants et itérer efficacement"
+        },
+        "planning": {
+          "title": "Planifier vos projets futurs",
+          "description": "Méthodologie pour développer des projets plus complexes"
+        }
+      }
+    },
+    "prerequisites": {
+      "title": "Prérequis",
+      "target_title": "À qui s'adresse cette formation",
+      "requirements": {
+        "no_experience": {
+          "title": "Aucune expérience technique requise",
+          "description": "Cette formation est conçue pour les débutants complets"
+        },
+        "computer": {
+          "title": "Ordinateur avec connexion internet",
+          "description": "Compatible Mac et PC"
+        },
+        "motivation": {
+          "title": "Motivation d'apprendre",
+          "description": "Envie de créer et d'expérimenter avec l'IA"
+        }
+      },
+      "target_audience": [
+        "Entrepreneurs souhaitant créer leur site",
+        "Freelancers voulant élargir leurs services",
+        "Étudiants en recherche de compétences modernes",
+        "Professionnels voulant comprendre l'IA",
+        "Créatifs désirant donner vie à leurs idées"
+      ]
+    },
+    "enrollment": {
+      "title": "Prêt à créer votre premier site avec l'IA ?",
+      "subtitle": "Rejoignez des centaines d'étudiants qui ont déjà transformé leurs idées en réalité grâce à notre formation Kickstart.",
+      "stats": {
+        "duration": "Formation intensive",
+        "practical": "Pratique",
+        "guarantee": "Garantie"
+      },
+      "cta_primary": "S'inscrire maintenant",
+      "cta_secondary": "Retour aux formations",
+      "stripe_button": "S'inscrire maintenant - 280€"
+    },
+    "navigation": {
+      "home": "Accueil",
+      "formation": "Formation",
+      "current": "Formation Kickstart"
+    }
+  },
+  "formation_architecte": {
+    "hero": {
+      "title": "Formation Architecte",
+      "title_highlight": "De l'idée au logiciel scalable",
+      "subtitle": "Maîtrisez l'architecture et l'orchestration d'agents IA pour créer des applications d'entreprise robustes et évolutives.",
+      "duration": "formation complète",
+      "level": "Niveau avancé",
+      "online": "100% en ligne",
+      "cta_primary": "Accéder à la formation",
+      "cta_secondary": "Découvrir le programme"
+    },
+    "overview": {
+      "title": "Devenez un architecte du développement agentique",
+      "description": "Cette formation avancée vous transforme en expert capable de concevoir et orchestrer des systèmes complexes avec des agents IA spécialisés. Idéale pour les professionnels expérimentés cherchant à maîtriser l'architecture d'entreprise moderne.",
+      "benefits": {
+        "enterprise": "Architecture d'entreprise avec agents IA",
+        "scalability": "Solutions scalables et robustes",
+        "leadership": "Leadership technique et innovation"
+      },
+      "results": {
+        "title": "Objectifs professionnels",
+        "subtitle": "Compétences de niveau entreprise garanties",
+        "items": {
+          "architecture": "Concevoir des architectures complexes",
+          "orchestration": "Orchestrer des équipes d'agents",
+          "enterprise": "Déployer en environnement d'entreprise"
+        }
+      }
+    },
+    "curriculum": {
+      "title": "Programme de formation avancé",
+      "subtitle": "6 modules spécialisés pour maîtriser l'architecture et l'orchestration d'agents IA d'entreprise",
+      "module": "Module",
+      "learning_objectives": "Objectifs d'apprentissage",
+      "key_topics": "Sujets clés",
+      "modules": {
+        "module_1": {
+          "title": "Pourquoi l'IA agentique va façonner le code et les pratiques de demain",
+          "duration": "90 min",
+          "description": "Vision stratégique du développement agentique",
+          "learning_objectives": [
+            "Comprendre le changement fondamental dans le développement logiciel",
+            "Reconnaître l'importance stratégique du développement alimenté par l'IA",
+            "Saisir les avantages concurrentiels de la programmation agentique",
+            "Analyser l'impact professionnel et les stratégies de pérennisation de carrière"
+          ],
+          "key_topics": [
+            "Introduction vidéo Newcode",
+            "Statistiques de l'industrie et tendances des développeurs",
+            "Démonstrations de Claude Flow et Orchids",
+            "Analyse de l'impact professionnel",
+            "Stratégies de pérennisation de carrière"
+          ]
+        },
+        "module_2": {
+          "title": "Au-delà de ChatGPT: Qu'est-ce qu'un agent?",
+          "duration": "120 min",
+          "description": "Architecture et conception d'agents pour workflows de développement",
+          "learning_objectives": [
+            "Définir et architecturer des agents IA pour les workflows de développement",
+            "Comprendre les capacités et limitations des agents",
+            "Concevoir des environnements de développement alimentés par des agents",
+            "Maîtriser l'autonomie des agents et la spécialisation par rôle"
+          ],
+          "key_topics": [
+            "Définition et architecture d'agent",
+            "Configuration d'environnement de développement (sans coût, sans maintenance)",
+            "Outils et intégration MCP (Model Context Protocol)",
+            "Autonomie des agents et spécialisation par rôle",
+            "Couverture du cycle de développement professionnel",
+            "Gestion des risques et stratégies de fiabilité"
+          ]
+        },
+        "module_3": {
+          "title": "Setup de vos agents - Partie 1",
+          "duration": "120 min",
+          "description": "Configuration d'environnements d'agents de niveau professionnel",
+          "learning_objectives": [
+            "Configurer des environnements d'agents de niveau professionnel",
+            "Implémenter une orchestration avancée pour des tâches complexes",
+            "Mettre en place une infrastructure de développement",
+            "Intégrer avec les workflows de développement existants"
+          ],
+          "key_topics": [
+            "Configuration Roocode (modes, indexation, MCP)",
+            "Orchestration de tâches complexes",
+            "Configuration d'environnement de développement professionnel",
+            "Intégration avec les workflows de développement existants"
+          ]
+        },
+        "module_4": {
+          "title": "Setup de vos agents - Partie 2",
+          "duration": "120 min",
+          "description": "Intégration d'outils de développement professionnel",
+          "learning_objectives": [
+            "Maîtriser l'intégration d'outils de développement professionnel",
+            "Configurer des agents spécialisés pour différents rôles",
+            "Optimiser les workflows de développement",
+            "Automatiser et optimiser l'efficacité"
+          ],
+          "key_topics": [
+            "Configuration professionnelle Cursor/VS Code",
+            "Configuration et optimisation Claude Code",
+            "Création et gestion d'agents spécialisés",
+            "Automatisation des workflows et optimisation de l'efficacité"
+          ]
+        },
+        "module_5": {
+          "title": "Les clés à maîtriser",
+          "duration": "150 min",
+          "description": "Méthodologies avancées et stratégies d'assurance qualité",
+          "learning_objectives": [
+            "Maîtriser les méthodologies de développement avancées",
+            "Implémenter des stratégies d'assurance qualité et d'alignement",
+            "Déboguer et optimiser des systèmes complexes",
+            "Créer des frameworks d'évaluation de la qualité"
+          ],
+          "key_topics": [
+            "Limitations de développement et défis (pièges du vibe coding)",
+            "Implémentation de la méthodologie SPARC",
+            "Techniques avancées Claude-flow",
+            "Science de l'ingénierie de prompts (ultrathink)",
+            "Stratégies de déconstruction de tâches complexes",
+            "Méthodes d'alignement (TDD, PRD, modes, sous-agents)",
+            "Frameworks d'évaluation de la qualité",
+            "Techniques de débogage avancées",
+            "Création d'UI avec Magic MCP",
+            "Conseils et astuces professionnels (NotebookLM, entrée vocale, outils avancés)"
+          ]
+        },
+        "module_6": {
+          "title": "BMAD: Les pièces manquantes",
+          "duration": "180 min",
+          "description": "Cycle de développement professionnel complet",
+          "learning_objectives": [
+            "Compléter le cycle de vie de développement professionnel",
+            "Déployer des applications prêtes pour la production",
+            "Établir des pratiques de développement de niveau entreprise",
+            "Faire évoluer les équipes de développement avec des agents"
+          ],
+          "key_topics": [
+            "Couverture complète du cycle de développement",
+            "Stratégies de déploiement en production",
+            "Intégration d'outils d'entreprise (Clerk, Prisma, PostgreSQL, Railway, Vercel, Netlify)",
+            "Exemples de spécifications professionnelles",
+            "Personnalisation et optimisation des workflows",
+            "Développement d'agents personnalisés",
+            "Collaboration d'entreprise et gestion de projet",
+            "Faire évoluer les équipes de développement avec des agents"
+          ]
+        }
+      }
+    },
+    "target_audience": {
+      "title": "Conçu pour les professionnels expérimentés",
+      "subtitle": "Cette formation s'adresse aux leaders techniques et entrepreneurs ambitieux",
+      "audiences": [
+        {
+          "title": "CTOs & Directeurs Techniques",
+          "description": "Adoption stratégique de technologies",
+          "icon": "🎯"
+        },
+        {
+          "title": "Développeurs Senior",
+          "description": "Développement de compétences avancées et progression de carrière",
+          "icon": "💻"
+        },
+        {
+          "title": "Entrepreneurs Tech",
+          "description": "Développement rapide de MVP et mise à l'échelle",
+          "icon": "🚀"
+        },
+        {
+          "title": "Équipes de Développement",
+          "description": "Stratégies de multiplication de la productivité",
+          "icon": "👥"
+        }
+      ]
+    },
+    "value_proposition": {
+      "title": "Proposition de valeur d'entreprise",
+      "items": [
+        {
+          "title": "Vitesse de développement 10x",
+          "description": "Accélérez les cycles de développement",
+          "icon": "⚡"
+        },
+        {
+          "title": "Architecture scalable",
+          "description": "Construisez des applications prêtes pour l'entreprise",
+          "icon": "🏗️"
+        },
+        {
+          "title": "Leadership technique",
+          "description": "Dirigez des équipes de développement alimentées par l'IA",
+          "icon": "👨‍💼"
+        },
+        {
+          "title": "Avantage concurrentiel",
+          "description": "Maîtrisez les pratiques de développement de pointe",
+          "icon": "🏆"
+        }
+      ]
+    },
+    "roi_justification": {
+      "title": "Justification du retour sur investissement",
+      "subtitle": "Impact mesurable sur votre organisation",
+      "benefits": [
+        "Réduction du temps et des coûts de développement",
+        "Amélioration de la productivité de l'équipe",
+        "Positionnement concurrentiel sur le marché",
+        "Opportunités d'avancement de carrière",
+        "Développement de compétences de niveau entreprise"
+      ]
+    },
+    "prerequisites": {
+      "title": "Prérequis professionnels",
+      "subtitle": "Formation de niveau avancé",
+      "requirements": {
+        "experience": {
+          "title": "Expérience technique ou managériale",
+          "description": "Connaissance de base du développement logiciel ou gestion d'équipes techniques"
+        },
+        "environment": {
+          "title": "Environnement de développement professionnel",
+          "description": "Accès aux outils de développement et aux environnements de test"
+        },
+        "commitment": {
+          "title": "Engagement à l'apprentissage avancé",
+          "description": "Temps dédié pour maîtriser des concepts complexes et des implémentations"
+        }
+      },
+      "ideal_candidates": [
+        "CTOs et directeurs techniques cherchant l'innovation",
+        "Développeurs senior voulant évoluer vers l'architecture",
+        "Entrepreneurs tech avec des projets ambitieux",
+        "Consultants cherchant l'expertise en IA",
+        "Leaders d'équipe modernisant leurs approches"
+      ]
+    },
+    "professional_outcomes": {
+      "title": "Résultats professionnels",
+      "subtitle": "Compétences et capacités que vous maîtriserez",
+      "outcomes": [
+        {
+          "title": "Architecture d'agents",
+          "description": "Concevoir et implémenter des systèmes d'agents complexes",
+          "icon": "🏛️"
+        },
+        {
+          "title": "Orchestration avancée",
+          "description": "Coordonner des équipes d'agents pour des projets d'entreprise",
+          "icon": "🎼"
+        },
+        {
+          "title": "Déploiement d'entreprise",
+          "description": "Mise en production sécurisée et scalable",
+          "icon": "🏢"
+        },
+        {
+          "title": "Leadership d'innovation",
+          "description": "Diriger la transformation numérique de votre organisation",
+          "icon": "💡"
+        },
+        {
+          "title": "Optimisation continue",
+          "description": "Améliorer et faire évoluer les systèmes existants",
+          "icon": "🔄"
+        },
+        {
+          "title": "Formation d'équipes",
+          "description": "Transférer les connaissances et former d'autres professionnels",
+          "icon": "👨‍🏫"
+        }
+      ]
+    },
+    "enterprise_options": {
+      "title": "Options entreprise",
+      "subtitle": "Solutions adaptées aux besoins organisationnels",
+      "options": [
+        {
+          "title": "Formation d'équipe",
+          "description": "Sessions dédiées pour vos équipes de développement",
+          "features": [
+            "Sessions privées",
+            "Contenu personnalisé",
+            "Support dédié"
+          ]
+        },
+        {
+          "title": "Consultation stratégique",
+          "description": "Accompagnement pour l'adoption organisationnelle",
+          "features": [
+            "Évaluation stratégique",
+            "Roadmap personnalisée",
+            "Support continu"
+          ]
+        },
+        {
+          "title": "Implémentation guidée",
+          "description": "Support pour l'implémentation dans vos projets",
+          "features": [
+            "Coaching pratique",
+            "Révision de code",
+            "Mentorat technique"
+          ]
+        }
+      ]
+    },
+    "enrollment": {
+      "title": "Prêt à transformer votre approche du développement ?",
+      "subtitle": "Rejoignez l'élite des professionnels qui maîtrisent déjà l'architecture agentique d'entreprise.",
+      "stats": {
+        "duration": "Formation intensive complète",
+        "enterprise": "Niveau entreprise",
+        "support": "Support professionnel"
+      },
+      "cta_primary": "Accéder à la formation",
+      "cta_secondary": "Retour aux formations",
+      "cta_enterprise": "Options entreprise"
+    },
+    "navigation": {
+      "home": "Accueil",
+      "formation": "Formation",
+      "current": "Formation Architecte"
+    }
+  },
+  "payment_flexibility": {
+    "primary_message": "Pour les paiements en plusieurs fois :",
+    "contact_link": "nous contacter",
+    "benefits": {
+      "flexible_plans": "Plans flexibles disponibles",
+      "quick_response": "Réponse sous 24h garantie"
+    },
+    "options_title": "Options d'échelonnement",
+    "installment_period": "{months} mois",
+    "per_month": "mois",
+    "calculation_note": "Montants approximatifs - plan personnalisé sur demande",
+    "contact_title": "Comment nous contacter",
+    "email_contact": "Envoyer un courriel",
+    "email_description": "Réponse garantie sous 24h",
+    "alternative_contact": "Ou contactez-nous directement :",
+    "email_subject": "Demande de plan de paiement - {formation}",
+    "email_body": "Bonjour,\n\nJe suis intéressé(e) par la {formation} (prix : {price}€) et j'aimerais discuter des options de paiement échelonné.\n\nMes préférences :\n- Durée souhaitée : [3, 6 ou 12 mois]\n- Budget mensuel : [montant]\n- Informations supplémentaires : [vos besoins spécifiques]\n\nMerci de me recontacter pour discuter d'une solution adaptée.\n\nCordialement,\n[Votre nom]",
+    "process_title": "Notre processus de réponse",
+    "process": {
+      "step1": "Votre demande",
+      "step2": "Notre réponse",
+      "step3": "Plan personnalisé",
+      "step4": "Inscription confirmée",
+      "immediate": "Immédiat",
+      "within_24h": "Sous 24h",
+      "within_48h": "Sous 48h",
+      "same_day": "Même jour"
+    },
+    "formations": {
+      "kickstart": "Formation Kickstart",
+      "architecte": "Formation Architecte"
+    }
+  }
+}
